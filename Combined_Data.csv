@@ -1,0 +1,1216 @@
+,y_11,y_12,y_13,y,x_1,x_2,x_3,x_4,x_5,x_6,x_7,x_8,x_9,ADM2_EN,lat,long
+146,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Physical business,0,0,1,Dagoreti,-1.3101,36.7575
+147,High,Very High,Very High,Very High,High,Very High,Very High,No,0,Online business,3,0,0,Dagoreti,-1.3101,36.7575
+148,Medium,High,High,High,High,High,High,No,0,Physical business,0,0,0,Dagoreti,-1.3101,36.7575
+149,High,Medium,High,High,High,High,Medium,Yes,0,Physical business,1,0,0,Dagoreti,-1.3101,36.7575
+150,Very High,Very High,High,Very High,High,Very High,Very High,Yes,0,Online business,0,0,0,Dagoreti,-1.3101,36.7575
+151,High,High,High,High,Medium,High,Medium,No,0,Physical business,0,0,0,Dagoreti,-1.3101,36.7575
+153,Low,Low,Very Low,Low,Very Low,Low,Low,No,0,Online business,4,0,1,Dagoreti,-1.3101,36.7575
+154,Low,Low,Low,Low,Very Low,Low,Low,No,0,Online business,8,0,1,Dagoreti,-1.3101,36.7575
+157,High,High,High,High,High,High,High,No,0,Online business,2,0,1,Dagoreti,-1.3101,36.7575
+158,High,High,Medium,High,High,High,High,No,1,Physical business,1,0,1,Dagoreti,-1.3101,36.7575
+159,Medium,Low,Low,Low,Low,Low,Medium,No,0,Physical business,2,0,1,Dagoreti,-1.3101,36.7575
+160,Very High,High,High,High,High,High,High,No,0,Physical business,4,0,1,Dagoreti,-1.3101,36.7575
+161,High,High,Medium,High,Medium,High,High,No,0,Physical business,4,0,1,Dagoreti,-1.3101,36.7575
+162,High,High,Very High,High,Very High,High,High,Yes,0,Online business,0,0,1,Dagoreti,-1.3101,36.7575
+167,Very High,Very High,Very High,Very High,High,High,High,Yes,3,Online business,3,0,0,Dagoreti,-1.3101,36.7575
+168,High,High,High,High,High,High,High,Yes,0,Physical business,7,0,1,Dagoreti,-1.3101,36.7575
+169,High,High,High,High,High,High,High,No,2,Physical business,2,0,0,Dagoreti,-1.3101,36.7575
+174,Very High,High,High,High,High,Very High,High,No,0,Online business,0,0,1,Dagoreti,-1.3101,36.7575
+176,High,Very High,Medium,High,Medium,High,High,Yes,0,Physical business,0,0,0,Dagoreti,-1.3101,36.7575
+266,High,Medium,High,High,High,High,High,Yes,7,Online business,10,0,1,Dagoreti,-1.3101,36.7575
+289,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Yes,8,Online business,10,0,1,Dagoreti,-1.3101,36.7575
+600,Medium,Medium,High,Medium,High,High,High,Yes,3,Online business,3,0,1,Dagoreti,-1.3101,36.7575
+601,High,High,High,High,High,High,High,Yes,3,Online business,3,0,0,Dagoreti,-1.3101,36.7575
+48,Medium,High,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,6,0,1,Embakasi,-1.3203,36.8906
+77,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,6,0,1,Embakasi,-1.3203,36.8906
+78,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+79,Medium,Medium,Medium,Medium,High,High,Medium,No,0,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+80,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+83,High,High,Very High,High,Very High,Very High,Very High,No,0,Physical business,3,0,0,Embakasi,-1.3203,36.8906
+84,Very High,Very High,Very High,Very High,Very High,Very High,High,No,2,Physical business,3,1,1,Embakasi,-1.3203,36.8906
+85,High,High,High,High,High,High,High,No,3,Online business,6,0,1,Embakasi,-1.3203,36.8906
+86,High,High,High,High,High,High,High,No,3,Online business,8,1,1,Embakasi,-1.3203,36.8906
+87,High,High,High,High,High,High,High,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+89,High,Medium,Very High,High,High,High,High,No,0,Online business,6,0,1,Embakasi,-1.3203,36.8906
+90,Medium,Medium,High,Medium,High,High,High,No,5,Physical business,10,0,1,Embakasi,-1.3203,36.8906
+91,Medium,Medium,High,Medium,High,High,High,No,3,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+92,High,High,High,High,Very High,High,High,No,0,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+94,Medium,Medium,High,Medium,High,High,High,No,0,Physical business,6,0,1,Embakasi,-1.3203,36.8906
+95,Very High,Very High,High,Very High,High,Very High,High,No,18,Online business,18,1,1,Embakasi,-1.3203,36.8906
+96,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+98,Medium,Medium,High,Medium,Medium,Medium,Medium,No,5,Online business,10,0,1,Embakasi,-1.3203,36.8906
+99,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+100,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+105,High,High,High,High,High,High,High,No,4,Online business,7,0,1,Embakasi,-1.3203,36.8906
+106,High,High,High,High,High,High,High,No,0,Online business,2,0,1,Embakasi,-1.3203,36.8906
+111,High,High,High,High,High,High,High,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+112,High,High,High,High,High,High,High,No,3,Online business,3,0,1,Embakasi,-1.3203,36.8906
+117,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Online business,4,0,1,Embakasi,-1.3203,36.8906
+118,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+120,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Online business,3,0,1,Embakasi,-1.3203,36.8906
+130,Medium,Medium,Medium,Medium,Medium,High,Medium,No,2,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+131,High,High,High,High,High,High,High,No,5,Physical business,5,0,1,Embakasi,-1.3203,36.8906
+132,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+135,High,High,High,High,High,High,High,No,5,Physical business,6,0,1,Embakasi,-1.3203,36.8906
+138,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+175,High,High,Medium,High,Medium,High,High,No,2,Online business,2,0,1,Embakasi,-1.3203,36.8906
+177,High,High,High,High,High,High,High,No,1,Online business,1,0,0,Embakasi,-1.3203,36.8906
+178,High,Medium,High,High,High,High,High,No,3,Physical business,3,0,0,Embakasi,-1.3203,36.8906
+182,High,High,Medium,High,High,High,High,No,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+183,High,High,High,High,High,High,High,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+184,High,High,Medium,High,High,High,High,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+185,High,High,High,High,High,High,High,No,1,Physical business,1,1,1,Embakasi,-1.3203,36.8906
+186,High,Low,Medium,Medium,High,High,High,No,4,Physical business,4,0,0,Embakasi,-1.3203,36.8906
+187,High,High,Medium,High,Medium,High,High,No,3,Physical business,5,0,1,Embakasi,-1.3203,36.8906
+188,High,Medium,High,High,High,High,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+189,High,High,High,High,High,Medium,Medium,No,0,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+190,High,High,High,High,High,High,High,Yes,6,Physical business,6,0,1,Embakasi,-1.3203,36.8906
+191,High,Medium,High,High,High,Medium,High,No,4,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+192,High,High,Medium,High,High,High,High,No,4,Physical business,4,0,0,Embakasi,-1.3203,36.8906
+193,High,High,High,High,High,Medium,High,No,1,Physical business,1,1,1,Embakasi,-1.3203,36.8906
+194,High,High,Medium,High,High,High,High,No,3,Online business,3,0,1,Embakasi,-1.3203,36.8906
+196,High,High,High,High,High,High,High,No,2,Online business,3,0,1,Embakasi,-1.3203,36.8906
+197,High,High,High,High,High,High,High,No,2,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+198,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+199,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+200,Medium,Low,Medium,Medium,Medium,Low,Medium,No,2,Online business,3,0,1,Embakasi,-1.3203,36.8906
+201,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,5,0,1,Embakasi,-1.3203,36.8906
+202,Medium,High,Medium,Medium,High,Medium,Medium,No,0,Online business,3,0,1,Embakasi,-1.3203,36.8906
+203,High,High,High,High,High,High,Medium,No,1,Physical business,1,0,0,Embakasi,-1.3203,36.8906
+204,High,High,High,High,High,High,High,Yes,3,Physical business,0,0,0,Embakasi,-1.3203,36.8906
+205,High,Medium,Medium,Medium,Medium,High,High,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+206,High,Medium,Medium,Medium,Medium,Medium,High,No,3,Physical business,3,0,0,Embakasi,-1.3203,36.8906
+207,High,High,High,High,High,High,High,Yes,3,Online business,4,0,1,Embakasi,-1.3203,36.8906
+208,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+209,Medium,High,High,High,Medium,High,High,Yes,2,Online business,4,0,1,Embakasi,-1.3203,36.8906
+210,High,Medium,High,High,High,High,Medium,Yes,2,Online business,2,0,1,Embakasi,-1.3203,36.8906
+211,High,Medium,High,High,High,High,High,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+212,High,High,High,High,High,High,High,No,3,Physical business,3,1,1,Embakasi,-1.3203,36.8906
+213,High,High,Medium,High,High,High,High,Yes,5,Physical business,5,0,1,Embakasi,-1.3203,36.8906
+214,High,High,High,High,High,High,High,Yes,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+215,High,High,High,High,High,High,High,Yes,6,Online business,6,0,1,Embakasi,-1.3203,36.8906
+216,High,High,High,High,High,High,High,Yes,5,Physical business,5,0,1,Embakasi,-1.3203,36.8906
+217,High,Medium,High,High,High,High,High,No,1,Physical business,0,0,0,Embakasi,-1.3203,36.8906
+218,High,Low,Medium,Medium,Medium,High,Medium,No,1,Physical business,1,0,0,Embakasi,-1.3203,36.8906
+219,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+220,High,Medium,High,High,Medium,High,High,No,2,Online business,2,0,1,Embakasi,-1.3203,36.8906
+221,High,High,High,High,High,High,High,No,0,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+222,High,High,High,High,High,Medium,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+223,High,High,High,High,High,High,High,No,3,Online business,3,0,1,Embakasi,-1.3203,36.8906
+224,High,Medium,High,High,High,High,High,No,2,Physical business,4,0,0,Embakasi,-1.3203,36.8906
+225,Medium,Medium,High,Medium,Medium,High,High,No,10,Physical business,10,1,1,Embakasi,-1.3203,36.8906
+226,High,High,High,High,High,High,High,Yes,1,Online business,2,1,1,Embakasi,-1.3203,36.8906
+227,Medium,Medium,High,Medium,High,Very High,High,Yes,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+228,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+229,High,Medium,High,High,High,High,High,No,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+230,High,High,High,High,High,High,High,No,10,Online business,10,0,1,Embakasi,-1.3203,36.8906
+231,High,High,High,High,High,High,High,No,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+232,High,High,High,High,High,Very High,Medium,Yes,3,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+234,High,High,High,High,High,High,High,No,2,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+235,High,High,Medium,High,High,High,High,No,2,Physical business,2,1,1,Embakasi,-1.3203,36.8906
+236,High,High,High,High,High,High,High,No,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+237,High,High,High,High,High,High,High,No,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+238,High,Medium,High,High,High,High,Medium,No,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+239,High,High,High,High,High,High,High,No,1,Online business,1,1,1,Embakasi,-1.3203,36.8906
+240,High,High,High,High,High,Medium,High,No,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+241,High,High,High,High,High,Medium,Medium,No,1,Physical business,1,0,0,Embakasi,-1.3203,36.8906
+242,High,Medium,High,High,High,Medium,High,No,4,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+244,High,High,Medium,High,Medium,High,High,No,2,Online business,2,0,1,Embakasi,-1.3203,36.8906
+245,High,High,High,High,Medium,High,High,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+246,High,High,High,High,High,High,High,Yes,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+247,High,High,Medium,High,Medium,High,High,No,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+276,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+283,High,High,Medium,High,High,Medium,Medium,No,5,Physical business,5,0,0,Embakasi,-1.3203,36.8906
+284,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Online business,13,0,1,Embakasi,-1.3203,36.8906
+285,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,20,Online business,32,0,1,Embakasi,-1.3203,36.8906
+288,Low,Low,Medium,Low,Medium,Very High,Medium,No,10,Physical business,10,0,1,Embakasi,-1.3203,36.8906
+302,Medium,High,High,High,High,High,High,Yes,3,Online business,3,1,1,Embakasi,-1.3203,36.8906
+311,High,Very High,High,High,High,High,High,Yes,6,Physical business,6,1,0,Embakasi,-1.3203,36.8906
+328,High,High,High,High,High,High,High,Yes,4,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+338,High,High,Medium,High,High,High,High,Yes,6,Online business,6,0,1,Embakasi,-1.3203,36.8906
+382,High,High,Medium,High,High,High,High,No,30,Online business,30,1,1,Embakasi,-1.3203,36.8906
+390,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,0,Online business,6,0,0,Embakasi,-1.3203,36.8906
+409,Low,Low,Medium,Low,High,High,High,No,0,Physical business,7,0,1,Embakasi,-1.3203,36.8906
+481,High,High,High,High,High,Medium,Medium,Yes,3,Physical business,3,0,0,Embakasi,-1.3203,36.8906
+508,High,High,High,High,High,High,High,No,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+509,Medium,High,Medium,Medium,High,High,High,No,1,Online business,1,0,0,Embakasi,-1.3203,36.8906
+512,High,High,Medium,High,High,Medium,High,No,2,Physical business,2,0,0,Embakasi,-1.3203,36.8906
+513,High,High,Medium,High,Medium,High,High,No,0,Physical business,3,0,0,Embakasi,-1.3203,36.8906
+514,High,High,Medium,High,High,Medium,Medium,No,0,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+518,Medium,High,Medium,Medium,Medium,High,High,Yes,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+520,Medium,Medium,High,Medium,High,High,High,No,1,Online business,1,0,1,Embakasi,-1.3203,36.8906
+529,High,High,High,High,High,High,High,No,0,Online business,3,0,0,Embakasi,-1.3203,36.8906
+533,High,High,Medium,High,High,High,Medium,Yes,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+537,Medium,High,High,High,High,High,High,No,5,Physical business,5,0,1,Embakasi,-1.3203,36.8906
+539,High,Medium,Medium,Medium,Medium,Low,Medium,No,1,Online business,1,0,1,Embakasi,-1.3203,36.8906
+540,High,Medium,Medium,Medium,High,Medium,Medium,No,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+547,High,Medium,High,High,High,Medium,Medium,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+554,Medium,High,High,High,High,High,High,No,2,Online business,2,0,1,Embakasi,-1.3203,36.8906
+555,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,No,7,Physical business,13,0,1,Embakasi,-1.3203,36.8906
+557,High,High,High,High,High,High,High,No,2,Online business,15,0,1,Embakasi,-1.3203,36.8906
+559,High,High,High,High,High,Very High,High,Yes,4,Physical business,6,0,0,Embakasi,-1.3203,36.8906
+576,Medium,Medium,High,Medium,High,Medium,Medium,No,1,Physical business,0,1,1,Embakasi,-1.3203,36.8906
+577,Medium,Medium,High,Medium,High,High,Medium,No,5,Physical business,7,1,1,Embakasi,-1.3203,36.8906
+578,Medium,Medium,High,Medium,High,High,High,Yes,0,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+579,High,Medium,Medium,Medium,High,High,Medium,No,6,Online business,7,1,0,Embakasi,-1.3203,36.8906
+580,High,High,Very High,High,High,High,Medium,No,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+599,Low,Low,High,Medium,Medium,Medium,Medium,No,4,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+617,Medium,High,High,High,Medium,High,Medium,Yes,25,Online business,25,0,1,Embakasi,-1.3203,36.8906
+656,High,High,Medium,High,Medium,High,Medium,No,2,Physical business,2,0,1,Embakasi,-1.3203,36.8906
+657,High,Medium,High,High,High,Medium,High,No,0,Physical business,8,1,0,Embakasi,-1.3203,36.8906
+658,High,High,Medium,High,Medium,High,Medium,No,2,Physical business,2,1,1,Embakasi,-1.3203,36.8906
+661,High,High,Medium,High,High,High,High,No,3,Online business,3,0,1,Embakasi,-1.3203,36.8906
+663,Very High,Very High,Very High,Very High,High,Very High,High,Yes,10,Physical business,10,0,1,Embakasi,-1.3203,36.8906
+664,High,High,High,High,High,High,High,No,10,Online business,10,0,1,Embakasi,-1.3203,36.8906
+665,High,High,High,High,High,High,Medium,Yes,10,Physical business,11,1,0,Embakasi,-1.3203,36.8906
+666,Very High,High,High,High,High,High,High,Yes,4,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+668,High,High,Medium,High,Medium,High,High,Yes,0,Physical business,5,0,0,Embakasi,-1.3203,36.8906
+672,High,High,High,High,High,High,High,Yes,15,Online business,17,0,1,Embakasi,-1.3203,36.8906
+673,High,High,High,High,High,High,High,No,12,Online business,13,1,1,Embakasi,-1.3203,36.8906
+677,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Embakasi,-1.3203,36.8906
+678,Medium,High,High,High,High,High,High,Yes,4,Physical business,5,1,1,Embakasi,-1.3203,36.8906
+683,High,High,Very High,High,Very High,High,Very High,No,0,Online business,3,0,1,Embakasi,-1.3203,36.8906
+695,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Yes,4,Physical business,4,0,0,Embakasi,-1.3203,36.8906
+742,High,Medium,High,High,Medium,High,High,No,0,Physical business,3,0,0,Embakasi,-1.3203,36.8906
+746,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Embakasi,-1.3203,36.8906
+748,High,High,High,High,High,High,High,Yes,3,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+752,High,Medium,Medium,Medium,Medium,High,High,No,4,Physical business,4,1,1,Embakasi,-1.3203,36.8906
+763,High,High,High,High,High,High,High,No,1,Physical business,3,0,1,Embakasi,-1.3203,36.8906
+251,High,High,Medium,High,Medium,High,High,No,0,Online business,2,1,1,Kamukunji,-1.2852,36.8456
+255,High,High,High,High,High,High,Very High,No,0,Physical business,3,0,1,Kamukunji,-1.2852,36.8456
+300,High,High,High,High,High,High,High,No,0,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+304,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,3,Physical business,3,0,1,Kamukunji,-1.2852,36.8456
+307,Medium,Medium,High,Medium,High,High,Medium,No,0,Online business,0,0,0,Kamukunji,-1.2852,36.8456
+312,High,High,High,High,High,High,High,No,0,Online business,0,0,1,Kamukunji,-1.2852,36.8456
+379,High,High,Medium,High,Medium,Medium,High,No,3,Physical business,3,0,1,Kamukunji,-1.2852,36.8456
+383,Medium,Medium,High,Medium,High,High,Medium,No,8,Physical business,8,0,0,Kamukunji,-1.2852,36.8456
+384,Low,Low,Low,Low,Low,Medium,Low,Yes,1,Physical business,1,0,0,Kamukunji,-1.2852,36.8456
+385,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,0,Kamukunji,-1.2852,36.8456
+386,Medium,High,Medium,Medium,Medium,Medium,High,No,4,Physical business,4,0,1,Kamukunji,-1.2852,36.8456
+389,Medium,Medium,Medium,Medium,Medium,High,Medium,No,7,Physical business,7,0,1,Kamukunji,-1.2852,36.8456
+391,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,6,0,0,Kamukunji,-1.2852,36.8456
+392,Medium,High,Medium,Medium,Medium,Medium,Medium,Yes,1,Online business,1,0,0,Kamukunji,-1.2852,36.8456
+395,Medium,Medium,Medium,Medium,High,High,Medium,No,0,Physical business,3,0,0,Kamukunji,-1.2852,36.8456
+397,Medium,Medium,Medium,Medium,Medium,High,Medium,No,10,Physical business,10,0,1,Kamukunji,-1.2852,36.8456
+398,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,1,0,1,Kamukunji,-1.2852,36.8456
+399,High,Medium,High,High,High,High,Medium,No,9,Physical business,9,0,0,Kamukunji,-1.2852,36.8456
+400,High,High,High,High,High,High,High,Yes,2,Online business,3,1,1,Kamukunji,-1.2852,36.8456
+401,Low,Medium,Medium,Medium,Low,Medium,Medium,No,0,Online business,3,1,0,Kamukunji,-1.2852,36.8456
+402,Medium,Medium,Medium,Medium,Low,High,Medium,Yes,0,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+403,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Physical business,12,0,1,Kamukunji,-1.2852,36.8456
+404,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,11,Physical business,11,0,1,Kamukunji,-1.2852,36.8456
+405,Medium,Medium,Medium,Medium,Medium,High,Medium,No,3,Physical business,3,0,0,Kamukunji,-1.2852,36.8456
+406,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,5,Physical business,5,0,1,Kamukunji,-1.2852,36.8456
+407,High,High,High,High,High,High,High,Yes,2,Online business,2,0,1,Kamukunji,-1.2852,36.8456
+408,High,High,High,High,High,Medium,Medium,Yes,5,Physical business,5,0,1,Kamukunji,-1.2852,36.8456
+410,High,High,High,High,High,High,High,Yes,4,Online business,7,0,1,Kamukunji,-1.2852,36.8456
+411,High,Very High,High,High,High,Medium,High,No,2,Online business,3,1,0,Kamukunji,-1.2852,36.8456
+412,High,Medium,High,High,High,High,High,No,6,Online business,11,1,0,Kamukunji,-1.2852,36.8456
+413,High,High,High,High,High,High,High,Yes,5,Online business,7,0,1,Kamukunji,-1.2852,36.8456
+414,High,High,High,High,High,High,High,No,7,Online business,7,0,1,Kamukunji,-1.2852,36.8456
+415,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Kamukunji,-1.2852,36.8456
+416,High,High,High,High,High,High,High,No,2,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+418,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,0,Physical business,7,0,1,Kamukunji,-1.2852,36.8456
+419,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,1,0,0,Kamukunji,-1.2852,36.8456
+420,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,10,Physical business,10,0,1,Kamukunji,-1.2852,36.8456
+421,High,High,High,High,High,High,High,No,5,Online business,8,0,1,Kamukunji,-1.2852,36.8456
+422,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,12,0,1,Kamukunji,-1.2852,36.8456
+423,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,4,0,1,Kamukunji,-1.2852,36.8456
+424,Medium,Medium,Low,Medium,Medium,Medium,Medium,No,10,Physical business,10,0,1,Kamukunji,-1.2852,36.8456
+425,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,1,0,1,Kamukunji,-1.2852,36.8456
+426,High,High,Medium,High,High,High,Medium,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+427,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,4,0,0,Kamukunji,-1.2852,36.8456
+428,High,High,Medium,High,Medium,High,High,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+429,High,High,High,High,High,High,High,No,0,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+430,High,High,High,High,High,High,High,No,2,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+431,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,4,0,1,Kamukunji,-1.2852,36.8456
+432,High,High,High,High,High,High,High,Yes,1,Physical business,1,0,1,Kamukunji,-1.2852,36.8456
+433,Medium,Low,Low,Low,Medium,Medium,Medium,No,5,Physical business,5,0,1,Kamukunji,-1.2852,36.8456
+434,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,10,Online business,10,0,1,Kamukunji,-1.2852,36.8456
+435,High,High,High,High,High,High,High,No,11,Physical business,11,0,1,Kamukunji,-1.2852,36.8456
+436,High,High,High,High,High,High,High,No,8,Physical business,8,0,1,Kamukunji,-1.2852,36.8456
+437,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,0,Kamukunji,-1.2852,36.8456
+438,Medium,Medium,Low,Medium,Medium,Medium,Medium,No,0,Physical business,9,0,1,Kamukunji,-1.2852,36.8456
+439,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,5,Online business,5,0,1,Kamukunji,-1.2852,36.8456
+440,High,High,High,High,High,High,High,No,10,Online business,10,0,1,Kamukunji,-1.2852,36.8456
+441,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,0,Kamukunji,-1.2852,36.8456
+442,High,High,High,High,High,High,High,No,9,Physical business,7,0,1,Kamukunji,-1.2852,36.8456
+443,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,10,Physical business,10,0,1,Kamukunji,-1.2852,36.8456
+444,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,6,Physical business,6,1,1,Kamukunji,-1.2852,36.8456
+445,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+446,High,High,High,High,High,High,High,No,7,Physical business,7,0,1,Kamukunji,-1.2852,36.8456
+447,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+448,High,High,High,High,High,High,High,No,27,Physical business,27,0,1,Kamukunji,-1.2852,36.8456
+449,Medium,Medium,High,Medium,Medium,Medium,Medium,No,0,Online business,14,0,1,Kamukunji,-1.2852,36.8456
+450,High,High,High,High,High,High,High,No,7,Online business,8,0,1,Kamukunji,-1.2852,36.8456
+451,Medium,High,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,5,0,1,Kamukunji,-1.2852,36.8456
+452,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,11,Physical business,11,0,1,Kamukunji,-1.2852,36.8456
+453,Medium,Medium,High,Medium,Medium,Medium,Medium,Yes,9,Online business,24,0,1,Kamukunji,-1.2852,36.8456
+454,High,High,High,High,High,High,High,No,6,Physical business,6,0,1,Kamukunji,-1.2852,36.8456
+455,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,100,Physical business,100,0,1,Kamukunji,-1.2852,36.8456
+456,High,High,High,High,High,High,High,Yes,4,Online business,4,0,1,Kamukunji,-1.2852,36.8456
+457,High,High,High,High,High,High,High,No,3,Physical business,3,0,1,Kamukunji,-1.2852,36.8456
+458,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Online business,2,0,1,Kamukunji,-1.2852,36.8456
+459,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,5,0,1,Kamukunji,-1.2852,36.8456
+460,High,High,High,High,High,High,High,No,10,Physical business,10,0,1,Kamukunji,-1.2852,36.8456
+461,High,High,High,High,High,High,High,No,12,Physical business,12,0,1,Kamukunji,-1.2852,36.8456
+462,Low,Medium,Medium,Medium,Low,Low,Medium,No,0,Physical business,14,1,0,Kamukunji,-1.2852,36.8456
+463,High,High,High,High,High,High,High,No,90,Online business,90,0,1,Kamukunji,-1.2852,36.8456
+464,High,High,High,High,High,High,High,No,4,Physical business,4,0,0,Kamukunji,-1.2852,36.8456
+465,High,High,High,High,High,High,High,No,7,Physical business,7,0,1,Kamukunji,-1.2852,36.8456
+466,Medium,Medium,Medium,Medium,Medium,High,Medium,No,1,Online business,2,0,1,Kamukunji,-1.2852,36.8456
+467,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,2,0,1,Kamukunji,-1.2852,36.8456
+468,High,High,High,High,High,High,High,No,7,Physical business,10,0,1,Kamukunji,-1.2852,36.8456
+469,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Kamukunji,-1.2852,36.8456
+470,High,High,High,High,High,High,High,No,6,Physical business,6,0,1,Kamukunji,-1.2852,36.8456
+471,Medium,Low,Low,Low,Medium,Low,Low,No,0,Physical business,1,0,1,Kamukunji,-1.2852,36.8456
+472,Medium,Low,Medium,Medium,Medium,Medium,Medium,No,7,Physical business,7,0,1,Kamukunji,-1.2852,36.8456
+473,High,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,0,0,0,Kamukunji,-1.2852,36.8456
+474,High,High,Medium,High,Medium,Medium,Medium,No,4,Physical business,4,0,0,Kamukunji,-1.2852,36.8456
+475,High,Medium,High,High,Medium,High,High,Yes,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+476,High,High,High,High,High,High,High,No,3,Online business,14,1,0,Kamukunji,-1.2852,36.8456
+477,Medium,Medium,Low,Medium,Low,Medium,Medium,Yes,2,Online business,4,0,1,Kamukunji,-1.2852,36.8456
+479,High,Medium,Medium,Medium,Medium,Low,Medium,No,3,Physical business,3,0,1,Kamukunji,-1.2852,36.8456
+482,High,High,High,High,High,Medium,High,No,0,Online business,3,1,1,Kamukunji,-1.2852,36.8456
+484,Medium,High,Medium,Medium,Medium,Medium,Low,No,5,Physical business,5,0,1,Kamukunji,-1.2852,36.8456
+485,High,Medium,Medium,Medium,Medium,High,High,No,1,Physical business,1,1,1,Kamukunji,-1.2852,36.8456
+486,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,7,1,1,Kamukunji,-1.2852,36.8456
+487,High,High,High,High,High,High,High,No,1,Online business,1,0,0,Kamukunji,-1.2852,36.8456
+488,High,High,High,High,High,High,High,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+489,High,High,High,High,High,High,High,No,2,Online business,4,1,1,Kamukunji,-1.2852,36.8456
+490,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Kamukunji,-1.2852,36.8456
+491,High,High,High,High,High,High,High,No,0,Physical business,0,0,0,Kamukunji,-1.2852,36.8456
+492,Medium,Medium,High,Medium,High,High,Medium,No,2,Physical business,6,1,0,Kamukunji,-1.2852,36.8456
+493,High,High,High,High,High,Medium,High,No,5,Physical business,5,1,1,Kamukunji,-1.2852,36.8456
+494,High,High,High,High,High,High,High,No,0,Physical business,5,0,0,Kamukunji,-1.2852,36.8456
+495,High,High,High,High,High,High,High,Yes,0,Physical business,5,1,1,Kamukunji,-1.2852,36.8456
+496,High,High,High,High,High,High,High,No,6,Physical business,6,0,1,Kamukunji,-1.2852,36.8456
+497,High,High,High,High,High,High,High,No,2,Physical business,4,0,1,Kamukunji,-1.2852,36.8456
+498,High,High,High,High,High,High,High,No,2,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+499,High,Medium,Medium,Medium,Medium,Medium,Medium,Yes,2,Online business,2,0,0,Kamukunji,-1.2852,36.8456
+500,Medium,Medium,High,Medium,High,Medium,Medium,No,1,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+501,High,High,High,High,High,High,High,Yes,4,Physical business,9,0,1,Kamukunji,-1.2852,36.8456
+502,High,High,Medium,High,Medium,Medium,High,Yes,2,Online business,2,0,0,Kamukunji,-1.2852,36.8456
+503,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+504,High,Very High,High,High,High,Low,High,Yes,2,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+505,High,High,High,High,High,High,High,Yes,4,Online business,4,0,0,Kamukunji,-1.2852,36.8456
+506,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,0,0,0,Kamukunji,-1.2852,36.8456
+507,High,Medium,High,High,High,High,Medium,No,1,Online business,2,0,0,Kamukunji,-1.2852,36.8456
+521,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Kamukunji,-1.2852,36.8456
+524,High,High,High,High,High,High,High,No,7,Physical business,12,1,1,Kamukunji,-1.2852,36.8456
+531,High,Medium,High,High,High,High,High,No,0,Physical business,5,0,1,Kamukunji,-1.2852,36.8456
+535,High,High,High,High,High,High,High,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+538,High,High,High,High,High,High,High,No,0,Physical business,0,1,1,Kamukunji,-1.2852,36.8456
+548,Medium,High,Medium,Medium,Medium,High,High,No,0,Physical business,2,1,1,Kamukunji,-1.2852,36.8456
+550,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+565,High,High,High,High,High,High,Medium,No,1,Physical business,1,0,0,Kamukunji,-1.2852,36.8456
+568,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,0,0,0,Kamukunji,-1.2852,36.8456
+570,High,Medium,High,High,High,High,High,No,0,Online business,1,0,0,Kamukunji,-1.2852,36.8456
+572,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,21,Physical business,32,1,1,Kamukunji,-1.2852,36.8456
+574,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+581,High,High,Medium,High,Medium,High,Medium,No,11,Online business,20,1,0,Kamukunji,-1.2852,36.8456
+586,High,High,Medium,High,High,High,Medium,No,0,Online business,0,1,0,Kamukunji,-1.2852,36.8456
+587,High,High,High,High,High,High,High,No,0,Physical business,6,0,0,Kamukunji,-1.2852,36.8456
+594,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,0,0,0,Kamukunji,-1.2852,36.8456
+598,Medium,Medium,Medium,Medium,High,Medium,Medium,No,0,Physical business,1,0,0,Kamukunji,-1.2852,36.8456
+603,Medium,Medium,High,Medium,Medium,Medium,Medium,No,0,Physical business,0,1,1,Kamukunji,-1.2852,36.8456
+604,High,High,High,High,High,High,High,No,2,Physical business,1,0,0,Kamukunji,-1.2852,36.8456
+606,Medium,High,High,High,High,High,High,No,3,Online business,0,0,1,Kamukunji,-1.2852,36.8456
+608,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,2,0,0,Kamukunji,-1.2852,36.8456
+609,High,Medium,Medium,Medium,Medium,High,Medium,No,7,Online business,11,1,1,Kamukunji,-1.2852,36.8456
+611,Medium,High,High,High,High,Medium,High,No,1,Physical business,2,0,1,Kamukunji,-1.2852,36.8456
+615,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,0,Kamukunji,-1.2852,36.8456
+616,High,Medium,Medium,Medium,High,High,Medium,No,2,Online business,3,1,1,Kamukunji,-1.2852,36.8456
+618,High,Medium,High,High,High,High,High,No,0,Online business,0,0,1,Kamukunji,-1.2852,36.8456
+620,Low,Medium,Medium,Medium,Medium,Low,Medium,No,0,Online business,1,0,0,Kamukunji,-1.2852,36.8456
+622,High,High,Medium,High,Medium,High,Medium,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+629,High,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Online business,3,0,0,Kamukunji,-1.2852,36.8456
+631,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+651,High,High,Medium,High,Medium,High,Medium,No,4,Online business,4,1,0,Kamukunji,-1.2852,36.8456
+655,Low,High,High,Medium,High,Medium,High,No,0,Physical business,0,0,1,Kamukunji,-1.2852,36.8456
+662,High,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Online business,13,1,0,Kamukunji,-1.2852,36.8456
+747,High,High,High,High,High,Medium,High,No,0,Online business,0,0,1,Kamukunji,-1.2852,36.8456
+891,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,0,Kasarani,-1.217,36.8952
+892,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,3,0,0,Kasarani,-1.217,36.8952
+898,High,High,High,High,High,High,High,No,12,Physical business,12,0,0,Kasarani,-1.217,36.8952
+906,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,2,0,1,Kasarani,-1.217,36.8952
+907,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,5,0,0,Kasarani,-1.217,36.8952
+908,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Online business,3,0,1,Kasarani,-1.217,36.8952
+909,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,0,Kasarani,-1.217,36.8952
+910,High,High,High,High,High,High,High,No,6,Physical business,6,0,1,Kasarani,-1.217,36.8952
+911,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+912,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,0,Kasarani,-1.217,36.8952
+913,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Kasarani,-1.217,36.8952
+914,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Kasarani,-1.217,36.8952
+915,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,0,Kasarani,-1.217,36.8952
+916,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+917,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+918,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+919,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,1,Kasarani,-1.217,36.8952
+920,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,5,0,1,Kasarani,-1.217,36.8952
+921,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,4,0,0,Kasarani,-1.217,36.8952
+922,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+923,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+924,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+926,High,High,High,High,High,High,High,No,0,Physical business,4,0,1,Kasarani,-1.217,36.8952
+927,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+928,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,5,0,1,Kasarani,-1.217,36.8952
+929,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+930,High,Medium,Medium,Medium,Medium,Medium,Medium,No,15,Physical business,15,0,0,Kasarani,-1.217,36.8952
+931,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,5,0,1,Kasarani,-1.217,36.8952
+932,High,High,High,High,High,High,High,No,4,Physical business,4,0,0,Kasarani,-1.217,36.8952
+935,Low,Low,Low,Low,Low,Low,Low,No,0,Physical business,0,0,1,Kasarani,-1.217,36.8952
+939,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,4,0,1,Kasarani,-1.217,36.8952
+940,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,1,Kasarani,-1.217,36.8952
+942,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,5,0,1,Kasarani,-1.217,36.8952
+943,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Kasarani,-1.217,36.8952
+944,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+945,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,1,Kasarani,-1.217,36.8952
+947,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,1,Kasarani,-1.217,36.8952
+950,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+951,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,4,0,1,Kasarani,-1.217,36.8952
+954,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,2,0,1,Kasarani,-1.217,36.8952
+955,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+957,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+958,Medium,Medium,Medium,Medium,Medium,High,Medium,No,3,Online business,6,0,0,Kasarani,-1.217,36.8952
+959,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Kasarani,-1.217,36.8952
+960,Medium,Medium,Medium,Medium,High,Medium,Medium,No,5,Physical business,5,0,1,Kasarani,-1.217,36.8952
+961,High,High,High,High,High,High,High,No,0,Physical business,3,0,1,Kasarani,-1.217,36.8952
+962,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,5,0,0,Kasarani,-1.217,36.8952
+963,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+964,High,High,High,High,High,High,High,No,4,Physical business,4,0,0,Kasarani,-1.217,36.8952
+965,Medium,High,Medium,Medium,Medium,High,High,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+966,Low,Low,Medium,Low,Medium,Medium,Medium,No,3,Physical business,4,0,0,Kasarani,-1.217,36.8952
+967,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,4,0,0,Kasarani,-1.217,36.8952
+968,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+969,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,0,Kasarani,-1.217,36.8952
+971,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,8,Physical business,8,0,0,Kasarani,-1.217,36.8952
+972,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+973,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,6,Physical business,10,0,0,Kasarani,-1.217,36.8952
+974,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,2,0,1,Kasarani,-1.217,36.8952
+975,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Kasarani,-1.217,36.8952
+976,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+977,High,High,Medium,High,Medium,High,Medium,No,3,Physical business,5,0,0,Kasarani,-1.217,36.8952
+978,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,5,0,1,Kasarani,-1.217,36.8952
+981,High,High,High,High,High,High,High,No,16,Physical business,16,0,1,Kasarani,-1.217,36.8952
+983,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,0,Kasarani,-1.217,36.8952
+984,High,High,High,High,High,High,High,No,20,Physical business,20,0,0,Kasarani,-1.217,36.8952
+985,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,0,Kasarani,-1.217,36.8952
+986,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,1,Kasarani,-1.217,36.8952
+987,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,5,0,1,Kasarani,-1.217,36.8952
+988,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Kasarani,-1.217,36.8952
+989,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,0,Kasarani,-1.217,36.8952
+990,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+991,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Kasarani,-1.217,36.8952
+992,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Online business,4,0,1,Kasarani,-1.217,36.8952
+993,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+994,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,4,0,1,Kasarani,-1.217,36.8952
+995,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+998,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,6,0,0,Kasarani,-1.217,36.8952
+1010,High,High,High,High,Medium,High,High,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1011,High,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1015,Medium,Medium,Medium,Medium,Medium,High,Medium,No,2,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1016,High,High,Medium,High,Medium,Medium,High,No,1,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1017,Medium,Medium,Medium,Medium,Medium,High,High,No,3,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1018,High,Medium,Medium,Medium,Medium,High,Medium,No,3,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1020,Medium,Medium,High,Medium,High,Low,Medium,No,2,Online business,2,0,1,Kasarani,-1.217,36.8952
+1021,High,High,Medium,High,Medium,High,High,No,0,Physical business,4,0,1,Kasarani,-1.217,36.8952
+1022,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Kasarani,-1.217,36.8952
+1024,High,Medium,High,High,Very High,High,Medium,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1026,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Online business,8,0,0,Kasarani,-1.217,36.8952
+1030,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,8,0,0,Kasarani,-1.217,36.8952
+1031,Medium,High,Medium,Medium,Medium,Medium,High,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1034,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1036,High,Medium,Medium,Medium,Medium,Medium,Medium,No,13,Physical business,13,0,0,Kasarani,-1.217,36.8952
+1037,High,Medium,Medium,Medium,Medium,High,Medium,No,2,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1038,Medium,High,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1039,Medium,High,High,High,High,High,High,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1040,High,High,High,High,High,High,Very High,Yes,0,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1042,Medium,Medium,High,Medium,Medium,Medium,High,No,0,Physical business,9,0,1,Kasarani,-1.217,36.8952
+1043,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,1,1,1,Kasarani,-1.217,36.8952
+1044,High,High,High,High,High,Medium,High,Yes,1,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1045,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1046,Medium,High,Medium,Medium,High,Medium,High,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1047,High,High,High,High,High,High,Medium,No,3,Online business,3,0,0,Kasarani,-1.217,36.8952
+1048,High,High,High,High,High,Medium,High,No,2,Physical business,4,0,0,Kasarani,-1.217,36.8952
+1049,Medium,Medium,High,Medium,High,High,High,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1050,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,0,Kasarani,-1.217,36.8952
+1051,High,High,Medium,High,High,Medium,High,No,2,Physical business,2,0,0,Kasarani,-1.217,36.8952
+1052,High,Medium,High,High,Medium,High,Medium,No,1,Physical business,2,0,0,Kasarani,-1.217,36.8952
+1053,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,3,0,1,Kasarani,-1.217,36.8952
+1054,High,Medium,Medium,Medium,High,Medium,High,No,3,Online business,3,0,0,Kasarani,-1.217,36.8952
+1055,Medium,High,Medium,Medium,High,High,Medium,No,3,Physical business,4,0,1,Kasarani,-1.217,36.8952
+1056,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1057,High,High,High,High,High,High,High,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1058,High,High,Medium,High,High,High,High,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1060,High,High,Medium,High,Medium,Medium,High,No,1,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1061,Medium,Medium,High,Medium,Medium,High,Medium,No,1,Physical business,10,0,0,Kasarani,-1.217,36.8952
+1062,High,High,High,High,High,High,High,No,1,Physical business,4,0,0,Kasarani,-1.217,36.8952
+1063,High,High,High,High,High,Medium,High,Yes,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1064,Medium,High,High,High,High,High,High,No,0,Physical business,6,0,0,Kasarani,-1.217,36.8952
+1066,High,High,High,High,High,High,High,No,1,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1067,High,Medium,Medium,Medium,Medium,High,Medium,No,1,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1068,High,High,High,High,High,Medium,High,Yes,1,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1069,High,High,Medium,High,High,Medium,Medium,No,0,Physical business,13,0,0,Kasarani,-1.217,36.8952
+1071,High,Medium,Medium,Medium,Medium,High,High,No,0,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1072,Medium,High,High,High,Medium,High,High,Yes,2,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1073,Medium,High,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1074,Medium,High,Medium,Medium,Medium,Medium,High,Yes,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1075,Medium,Medium,High,Medium,High,Medium,High,No,10,Online business,11,0,1,Kasarani,-1.217,36.8952
+1076,High,Medium,High,High,Medium,High,High,No,1,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1077,High,Medium,High,High,Medium,Medium,High,No,2,Physical business,2,0,0,Kasarani,-1.217,36.8952
+1079,Medium,High,High,High,High,High,High,No,0,Online business,1,0,1,Kasarani,-1.217,36.8952
+1080,Medium,Medium,Medium,Medium,High,Medium,High,No,1,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1081,Medium,Medium,Medium,Medium,Medium,Medium,High,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1082,High,High,Medium,High,Medium,High,High,No,2,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1083,Medium,High,Medium,Medium,High,High,High,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1085,Medium,Medium,Medium,Medium,Medium,Medium,High,No,6,Physical business,8,0,0,Kasarani,-1.217,36.8952
+1086,High,High,High,High,High,High,High,No,0,Physical business,2,0,1,Kasarani,-1.217,36.8952
+1087,Medium,Medium,Medium,Medium,Medium,High,Medium,No,2,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1088,High,High,Medium,High,High,High,High,No,1,Physical business,13,0,0,Kasarani,-1.217,36.8952
+1089,High,High,Medium,High,High,High,High,No,0,Physical business,2,0,0,Kasarani,-1.217,36.8952
+1090,High,High,Medium,High,High,High,Medium,No,0,Physical business,3,0,0,Kasarani,-1.217,36.8952
+1091,High,High,High,High,Medium,High,High,No,0,Physical business,4,0,0,Kasarani,-1.217,36.8952
+1093,Medium,High,Medium,Medium,High,High,High,No,2,Online business,2,0,1,Kasarani,-1.217,36.8952
+1094,High,Medium,High,High,High,Medium,High,No,3,Physical business,4,0,0,Kasarani,-1.217,36.8952
+1095,High,High,High,High,High,High,High,No,7,Physical business,7,0,1,Kasarani,-1.217,36.8952
+1097,High,High,High,High,High,High,High,No,4,Physical business,4,0,1,Kasarani,-1.217,36.8952
+1101,Medium,High,Medium,Medium,High,Medium,Medium,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1102,High,High,Medium,High,Medium,Medium,Medium,No,1,Physical business,1,1,1,Kasarani,-1.217,36.8952
+1103,High,High,High,High,Medium,Medium,High,No,5,Physical business,5,0,0,Kasarani,-1.217,36.8952
+1104,Medium,High,Medium,Medium,Medium,High,High,No,1,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1106,High,High,Medium,High,Medium,High,High,No,0,Online business,2,0,0,Kasarani,-1.217,36.8952
+1107,High,High,High,High,High,High,High,No,7,Physical business,9,0,1,Kasarani,-1.217,36.8952
+1109,High,Very High,Medium,High,Medium,High,Medium,No,0,Physical business,1,0,0,Kasarani,-1.217,36.8952
+1110,High,High,High,High,Medium,High,High,No,2,Physical business,2,0,0,Kasarani,-1.217,36.8952
+1111,Medium,High,High,High,High,High,High,No,0,Physical business,1,0,1,Kasarani,-1.217,36.8952
+1114,High,Medium,High,High,High,High,High,No,8,Physical business,9,0,0,Kasarani,-1.217,36.8952
+108,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Online business,1,0,0,Kibra,-1.3134,36.782
+109,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,0,Kibra,-1.3134,36.782
+113,High,High,Medium,High,Medium,High,Medium,Yes,3,Online business,3,0,1,Kibra,-1.3134,36.782
+114,High,Medium,High,High,High,Medium,High,No,3,Online business,3,0,1,Kibra,-1.3134,36.782
+115,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kibra,-1.3134,36.782
+116,Medium,Low,Medium,Medium,Medium,Medium,Medium,No,6,Physical business,6,0,1,Kibra,-1.3134,36.782
+119,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,1,Physical business,1,0,0,Kibra,-1.3134,36.782
+121,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,1,0,1,Kibra,-1.3134,36.782
+122,High,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kibra,-1.3134,36.782
+123,Low,Low,Medium,Low,Medium,Medium,Medium,No,0,Physical business,0,0,1,Kibra,-1.3134,36.782
+124,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Physical business,3,0,0,Kibra,-1.3134,36.782
+125,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kibra,-1.3134,36.782
+126,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Kibra,-1.3134,36.782
+127,High,High,Medium,High,Medium,Medium,Medium,Yes,3,Physical business,3,0,1,Kibra,-1.3134,36.782
+128,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,0,0,1,Kibra,-1.3134,36.782
+129,High,High,High,High,High,High,High,No,6,Physical business,7,0,0,Kibra,-1.3134,36.782
+134,Low,Low,Medium,Low,Medium,Medium,Medium,No,2,Physical business,1,0,1,Kibra,-1.3134,36.782
+136,Medium,Medium,Low,Medium,Low,Low,Low,No,0,Physical business,0,0,0,Kibra,-1.3134,36.782
+137,Medium,Medium,High,Medium,Medium,High,High,No,5,Physical business,5,0,0,Kibra,-1.3134,36.782
+139,Low,Low,Low,Low,Low,Low,Low,No,0,Physical business,0,0,1,Kibra,-1.3134,36.782
+140,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Kibra,-1.3134,36.782
+141,Low,Low,Low,Low,Low,Low,Low,No,3,Physical business,3,0,0,Kibra,-1.3134,36.782
+142,Low,Low,Low,Low,Low,Low,Low,No,0,Online business,0,0,1,Kibra,-1.3134,36.782
+143,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Physical business,3,0,0,Kibra,-1.3134,36.782
+144,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,10,Physical business,10,0,1,Kibra,-1.3134,36.782
+145,Medium,Low,Medium,Medium,Medium,Low,Medium,No,6,Physical business,6,0,1,Kibra,-1.3134,36.782
+152,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,2,Online business,2,0,0,Kibra,-1.3134,36.782
+155,High,High,High,High,High,High,High,No,0,Physical business,1,0,0,Kibra,-1.3134,36.782
+156,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,3,Online business,3,0,0,Kibra,-1.3134,36.782
+163,High,High,Very High,High,High,High,High,No,6,Physical business,13,0,1,Kibra,-1.3134,36.782
+164,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,2,0,1,Kibra,-1.3134,36.782
+165,High,High,High,High,High,High,High,No,0,Physical business,0,0,1,Kibra,-1.3134,36.782
+166,Medium,Low,Medium,Medium,High,Medium,High,No,0,Physical business,1,0,1,Kibra,-1.3134,36.782
+170,Very High,High,High,High,High,High,High,No,0,Online business,4,0,1,Kibra,-1.3134,36.782
+171,Very High,High,High,High,High,High,High,No,3,Online business,3,0,1,Kibra,-1.3134,36.782
+172,Very High,Very High,High,Very High,High,Very High,High,No,0,Physical business,0,0,1,Kibra,-1.3134,36.782
+173,Medium,Low,High,Medium,Medium,Low,Medium,No,0,Online business,1,0,1,Kibra,-1.3134,36.782
+180,Medium,High,High,High,Medium,Medium,High,No,2,Physical business,0,0,1,Kibra,-1.3134,36.782
+181,High,High,High,High,High,High,High,Yes,0,Physical business,1,0,1,Kibra,-1.3134,36.782
+233,Very High,High,Very High,Very High,Very High,High,Very High,Yes,4,Online business,4,0,0,Kibra,-1.3134,36.782
+249,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,2,0,1,Kibra,-1.3134,36.782
+1,Medium,High,High,High,High,High,Medium,No,0,Online business,1,0,1,Langata,-1.3227,36.7635
+2,High,High,High,High,High,High,High,No,0,Physical business,11,0,1,Langata,-1.3227,36.7635
+3,High,High,Very High,High,High,High,High,No,4,Online business,5,0,0,Langata,-1.3227,36.7635
+4,Medium,High,High,High,High,High,Medium,Yes,0,Online business,1,0,1,Langata,-1.3227,36.7635
+5,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+6,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,3,Online business,3,0,0,Langata,-1.3227,36.7635
+7,High,High,Very High,High,High,High,High,No,0,Online business,13,0,1,Langata,-1.3227,36.7635
+8,High,High,Very High,High,High,High,Very High,Yes,0,Physical business,3,0,1,Langata,-1.3227,36.7635
+9,High,High,High,High,High,High,Medium,No,3,Physical business,3,0,1,Langata,-1.3227,36.7635
+10,Medium,High,High,High,High,High,Medium,No,0,Physical business,9,0,1,Langata,-1.3227,36.7635
+11,Medium,High,High,High,Medium,High,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+12,Medium,High,High,High,High,High,Medium,No,1,Physical business,1,0,1,Langata,-1.3227,36.7635
+13,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,3,Physical business,13,0,1,Langata,-1.3227,36.7635
+14,High,High,High,High,High,High,High,No,0,Online business,2,1,1,Langata,-1.3227,36.7635
+15,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,14,Online business,24,0,0,Langata,-1.3227,36.7635
+16,Medium,Medium,High,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+17,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+18,High,High,High,High,High,Very High,High,No,0,Physical business,1,0,0,Langata,-1.3227,36.7635
+19,Medium,Medium,High,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+20,High,High,Very High,High,Very High,Very High,High,No,2,Physical business,13,0,1,Langata,-1.3227,36.7635
+21,Medium,Medium,High,Medium,Medium,High,Medium,No,1,Online business,1,0,0,Langata,-1.3227,36.7635
+22,Medium,High,High,High,High,High,High,Yes,6,Physical business,7,0,1,Langata,-1.3227,36.7635
+23,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,10,Physical business,10,0,1,Langata,-1.3227,36.7635
+24,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Online business,2,0,1,Langata,-1.3227,36.7635
+25,Medium,High,High,High,High,High,Medium,Yes,0,Physical business,2,0,1,Langata,-1.3227,36.7635
+26,Medium,Medium,High,Medium,High,Medium,Medium,No,0,Physical business,9,0,1,Langata,-1.3227,36.7635
+27,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+28,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+29,Medium,High,High,High,Medium,High,High,Yes,0,Online business,10,1,1,Langata,-1.3227,36.7635
+30,Very High,Very High,Very High,Very High,Very High,High,Very High,Yes,7,Physical business,7,0,0,Langata,-1.3227,36.7635
+31,High,High,High,High,High,High,High,No,0,Online business,3,0,1,Langata,-1.3227,36.7635
+32,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Physical business,4,0,1,Langata,-1.3227,36.7635
+33,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,2,Online business,8,0,1,Langata,-1.3227,36.7635
+34,Medium,Medium,High,Medium,High,High,High,No,0,Online business,3,0,1,Langata,-1.3227,36.7635
+35,High,High,High,High,High,High,High,No,0,Physical business,3,0,1,Langata,-1.3227,36.7635
+36,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+37,High,High,High,High,High,High,High,No,0,Online business,5,0,1,Langata,-1.3227,36.7635
+38,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Physical business,5,0,0,Langata,-1.3227,36.7635
+39,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+40,Medium,High,Very High,High,High,High,High,No,0,Physical business,2,0,1,Langata,-1.3227,36.7635
+41,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+42,High,High,High,High,High,High,High,No,0,Online business,6,0,1,Langata,-1.3227,36.7635
+43,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+44,High,High,High,High,High,High,High,No,1,Physical business,3,0,1,Langata,-1.3227,36.7635
+45,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+46,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,20,Physical business,20,0,1,Langata,-1.3227,36.7635
+47,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+49,High,High,High,High,High,High,High,No,3,Physical business,4,0,1,Langata,-1.3227,36.7635
+50,Very High,Very High,Very High,Very High,Very High,Very High,High,No,0,Physical business,3,0,1,Langata,-1.3227,36.7635
+51,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+52,High,High,Very High,High,Very High,Very High,High,No,0,Physical business,8,0,1,Langata,-1.3227,36.7635
+53,High,High,High,High,High,High,High,No,0,Online business,1,0,1,Langata,-1.3227,36.7635
+54,Medium,High,High,High,Medium,High,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+55,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+56,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Physical business,3,0,1,Langata,-1.3227,36.7635
+57,Medium,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+58,Medium,High,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,1,Langata,-1.3227,36.7635
+59,High,High,Very High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+60,Medium,High,High,High,High,High,High,No,0,Physical business,6,0,0,Langata,-1.3227,36.7635
+61,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Yes,0,Physical business,2,0,1,Langata,-1.3227,36.7635
+62,High,High,High,High,High,High,High,No,0,Online business,1,0,1,Langata,-1.3227,36.7635
+63,High,High,High,High,High,Very High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+64,High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+65,Medium,High,High,High,High,High,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+66,Medium,Medium,High,Medium,High,Medium,Medium,No,0,Physical business,2,0,1,Langata,-1.3227,36.7635
+67,High,High,High,High,High,Very High,High,No,0,Physical business,2,0,1,Langata,-1.3227,36.7635
+68,High,High,High,High,High,High,High,No,5,Physical business,26,0,0,Langata,-1.3227,36.7635
+69,Very High,Very High,Very High,Very High,Very High,Very High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+70,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+71,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,16,Physical business,33,0,1,Langata,-1.3227,36.7635
+72,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,3,Physical business,3,0,0,Langata,-1.3227,36.7635
+73,Medium,High,High,High,High,High,Medium,No,0,Physical business,2,0,0,Langata,-1.3227,36.7635
+74,High,High,High,High,High,High,High,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+75,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Langata,-1.3227,36.7635
+76,Very High,Very High,Very High,Very High,Very High,Very High,High,No,0,Online business,1,0,1,Langata,-1.3227,36.7635
+81,Very High,High,High,High,Very High,Very High,Very High,No,7,Online business,7,0,0,Langata,-1.3227,36.7635
+82,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,6,Online business,9,0,1,Langata,-1.3227,36.7635
+88,High,Medium,High,High,Medium,Medium,Medium,No,1,Online business,1,0,1,Langata,-1.3227,36.7635
+93,High,High,High,High,High,High,High,No,1,Online business,1,0,0,Langata,-1.3227,36.7635
+97,High,High,High,High,High,High,High,Yes,0,Online business,1,0,0,Langata,-1.3227,36.7635
+101,Medium,Medium,High,Medium,Medium,Low,Medium,No,0,Physical business,1,0,1,Langata,-1.3227,36.7635
+102,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,7,0,0,Langata,-1.3227,36.7635
+103,High,High,High,High,High,High,High,No,0,Online business,3,0,1,Langata,-1.3227,36.7635
+104,Very High,Very High,Very High,Very High,Very High,High,High,No,5,Online business,5,0,0,Langata,-1.3227,36.7635
+107,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Physical business,1,0,0,Langata,-1.3227,36.7635
+110,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Yes,4,Physical business,6,0,1,Langata,-1.3227,36.7635
+133,High,High,High,High,High,High,High,Yes,0,Online business,7,1,1,Langata,-1.3227,36.7635
+179,Medium,Medium,High,Medium,High,High,Medium,No,2,Online business,2,0,0,Langata,-1.3227,36.7635
+195,Medium,Medium,High,Medium,Medium,Medium,High,No,0,Physical business,1,0,0,Langata,-1.3227,36.7635
+736,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,2,Online business,2,0,0,Mathare,-1.2643,36.8509
+741,Low,Low,Medium,Low,High,High,Medium,No,0,Physical business,3,0,0,Mathare,-1.2643,36.8509
+744,High,High,High,High,High,High,High,Yes,3,Online business,4,0,0,Mathare,-1.2643,36.8509
+745,High,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,12,0,1,Mathare,-1.2643,36.8509
+749,High,High,Medium,High,Medium,Medium,Medium,No,3,Physical business,4,0,1,Mathare,-1.2643,36.8509
+750,High,High,High,High,Medium,Medium,High,No,6,Physical business,6,0,0,Mathare,-1.2643,36.8509
+751,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Mathare,-1.2643,36.8509
+753,High,High,Medium,High,Medium,Medium,Medium,No,8,Physical business,8,0,1,Mathare,-1.2643,36.8509
+754,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,7,Physical business,7,0,0,Mathare,-1.2643,36.8509
+755,Medium,High,Medium,Medium,High,Medium,Medium,Yes,6,Physical business,6,0,1,Mathare,-1.2643,36.8509
+756,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,12,Physical business,12,0,1,Mathare,-1.2643,36.8509
+757,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,9,Physical business,9,0,1,Mathare,-1.2643,36.8509
+758,High,High,Medium,High,High,Medium,High,Yes,5,Physical business,5,0,1,Mathare,-1.2643,36.8509
+759,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,5,0,0,Mathare,-1.2643,36.8509
+760,High,High,High,High,High,High,High,Yes,5,Physical business,5,0,0,Mathare,-1.2643,36.8509
+761,High,Medium,Low,Medium,Medium,Medium,Medium,No,7,Physical business,7,0,1,Mathare,-1.2643,36.8509
+762,High,High,High,High,High,High,High,Yes,11,Physical business,11,0,1,Mathare,-1.2643,36.8509
+766,Medium,Medium,High,Medium,High,High,Medium,No,0,Online business,6,0,1,Mathare,-1.2643,36.8509
+767,High,Medium,High,High,High,Medium,Medium,No,0,Physical business,4,0,1,Mathare,-1.2643,36.8509
+787,High,Medium,High,High,High,High,High,No,2,Physical business,2,0,0,Mathare,-1.2643,36.8509
+796,High,High,Medium,High,High,Medium,Medium,No,0,Online business,5,0,1,Mathare,-1.2643,36.8509
+799,High,Medium,Medium,Medium,Medium,Low,Low,Yes,18,Online business,35,0,1,Mathare,-1.2643,36.8509
+802,Medium,Medium,Medium,Medium,Medium,High,Medium,No,2,Physical business,2,0,1,Mathare,-1.2643,36.8509
+806,High,High,Medium,High,High,Medium,Medium,Yes,14,Physical business,14,0,0,Mathare,-1.2643,36.8509
+807,Medium,Medium,High,Medium,Medium,High,Medium,No,3,Physical business,4,0,1,Mathare,-1.2643,36.8509
+808,Medium,Medium,Low,Medium,Medium,Low,Low,No,0,Physical business,3,0,1,Mathare,-1.2643,36.8509
+811,High,High,Medium,High,Medium,Medium,Medium,Yes,2,Online business,4,0,0,Mathare,-1.2643,36.8509
+816,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,0,Mathare,-1.2643,36.8509
+820,Medium,Medium,High,Medium,High,High,High,No,0,Online business,3,0,1,Mathare,-1.2643,36.8509
+821,Medium,Low,Medium,Medium,Medium,Medium,Medium,Yes,6,Online business,10,0,0,Mathare,-1.2643,36.8509
+822,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Physical business,3,0,1,Mathare,-1.2643,36.8509
+823,Medium,Medium,Low,Medium,Medium,Medium,Medium,No,2,Physical business,1,0,1,Mathare,-1.2643,36.8509
+824,Medium,High,Medium,Medium,Medium,Medium,Medium,No,5,Online business,5,1,1,Mathare,-1.2643,36.8509
+825,Medium,Medium,Medium,Medium,Medium,Medium,Low,No,0,Online business,3,0,1,Mathare,-1.2643,36.8509
+826,High,High,Medium,High,Medium,Medium,Medium,No,8,Online business,15,0,1,Mathare,-1.2643,36.8509
+829,Medium,Medium,Medium,Medium,Medium,Medium,High,No,7,Online business,7,0,1,Mathare,-1.2643,36.8509
+830,High,High,High,High,High,High,High,No,0,Physical business,4,0,1,Mathare,-1.2643,36.8509
+867,Medium,Medium,Medium,Medium,High,Medium,High,No,1,Online business,4,0,1,Mathare,-1.2643,36.8509
+1001,Medium,High,High,High,High,Medium,Medium,No,0,Physical business,2,0,1,Mathare,-1.2643,36.8509
+1002,High,Medium,Medium,Medium,Medium,High,High,No,0,Physical business,2,0,1,Mathare,-1.2643,36.8509
+526,High,Medium,Medium,Medium,High,Medium,Medium,No,3,Physical business,6,1,1,Roysambu,-1.2275,36.8852
+694,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,34,Physical business,54,0,0,Roysambu,-1.2275,36.8852
+897,High,High,High,High,High,Medium,High,Yes,6,Online business,8,0,1,Roysambu,-1.2275,36.8852
+925,High,High,High,High,High,High,High,Yes,1,Online business,1,0,1,Roysambu,-1.2275,36.8852
+936,Very High,High,High,High,High,High,High,Yes,13,Online business,15,0,1,Roysambu,-1.2275,36.8852
+938,High,High,Medium,High,Medium,High,High,No,5,Physical business,5,0,1,Roysambu,-1.2275,36.8852
+970,High,High,High,High,High,High,High,Yes,0,Online business,7,0,1,Roysambu,-1.2275,36.8852
+979,Medium,Medium,High,Medium,High,High,High,Yes,2,Online business,2,0,1,Roysambu,-1.2275,36.8852
+980,Medium,High,High,High,High,Medium,Low,No,4,Online business,4,1,1,Roysambu,-1.2275,36.8852
+982,High,Medium,Medium,Medium,Medium,Medium,High,No,14,Physical business,17,0,1,Roysambu,-1.2275,36.8852
+996,High,High,High,High,High,High,Medium,Yes,0,Physical business,12,0,1,Roysambu,-1.2275,36.8852
+997,Medium,Low,High,Medium,High,Medium,High,No,0,Online business,4,0,0,Roysambu,-1.2275,36.8852
+1003,Very High,High,High,High,High,High,High,Yes,4,Online business,4,0,1,Roysambu,-1.2275,36.8852
+1004,Medium,Medium,High,Medium,High,Medium,Low,No,0,Online business,2,0,0,Roysambu,-1.2275,36.8852
+1005,High,Medium,High,High,High,Medium,High,Yes,3,Online business,3,1,0,Roysambu,-1.2275,36.8852
+1006,High,High,Medium,High,High,High,High,Yes,4,Online business,4,0,0,Roysambu,-1.2275,36.8852
+1007,High,High,Very High,High,Very High,Medium,Medium,No,2,Online business,3,0,0,Roysambu,-1.2275,36.8852
+1009,Medium,High,High,High,High,Medium,High,Yes,2,Online business,4,0,1,Roysambu,-1.2275,36.8852
+1012,High,High,High,High,High,High,High,No,5,Physical business,7,0,1,Roysambu,-1.2275,36.8852
+1013,High,High,Medium,High,Medium,Medium,High,No,2,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1014,Very High,High,High,High,High,Very High,Very High,No,2,Online business,2,0,1,Roysambu,-1.2275,36.8852
+1019,High,High,High,High,High,High,High,Yes,3,Online business,3,1,1,Roysambu,-1.2275,36.8852
+1023,Very High,Very High,Very High,Very High,Very High,Low,High,Yes,0,Online business,2,0,1,Roysambu,-1.2275,36.8852
+1025,Medium,Medium,Medium,Medium,Medium,Medium,High,No,1,Physical business,1,0,1,Roysambu,-1.2275,36.8852
+1027,High,High,High,High,High,Very High,Very High,No,0,Physical business,3,0,0,Roysambu,-1.2275,36.8852
+1028,Medium,Low,Medium,Medium,High,Very High,Medium,No,2,Physical business,4,1,0,Roysambu,-1.2275,36.8852
+1029,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,1,0,0,Roysambu,-1.2275,36.8852
+1032,High,Medium,High,High,High,Low,High,No,1,Online business,1,0,0,Roysambu,-1.2275,36.8852
+1033,High,Very High,High,High,Very High,High,High,No,1,Physical business,4,0,1,Roysambu,-1.2275,36.8852
+1035,High,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,2,0,0,Roysambu,-1.2275,36.8852
+1041,High,High,High,High,High,High,High,No,2,Physical business,2,1,0,Roysambu,-1.2275,36.8852
+1059,Medium,High,Medium,Medium,Medium,Medium,High,No,3,Online business,3,0,0,Roysambu,-1.2275,36.8852
+1065,Medium,High,High,High,High,High,High,Yes,27,Physical business,30,1,0,Roysambu,-1.2275,36.8852
+1070,High,High,High,High,High,Medium,Medium,No,0,Physical business,1,0,1,Roysambu,-1.2275,36.8852
+1078,High,Medium,High,High,Medium,Medium,Medium,No,1,Physical business,1,0,0,Roysambu,-1.2275,36.8852
+1084,High,Medium,High,High,High,Medium,High,No,0,Online business,2,0,0,Roysambu,-1.2275,36.8852
+1092,Medium,Medium,High,Medium,High,High,High,No,0,Physical business,1,0,0,Roysambu,-1.2275,36.8852
+1096,Low,Low,Low,Low,Low,Low,Low,No,0,Physical business,0,0,0,Roysambu,-1.2275,36.8852
+1098,Low,Low,Low,Low,Low,Low,Low,No,0,other,2,0,1,Roysambu,-1.2275,36.8852
+1099,High,Medium,Medium,Medium,High,Medium,High,No,6,Online business,5,1,0,Roysambu,-1.2275,36.8852
+1100,High,Medium,High,High,High,Medium,High,No,1,Physical business,1,0,0,Roysambu,-1.2275,36.8852
+1105,Medium,High,High,High,High,High,High,No,0,Physical business,1,0,1,Roysambu,-1.2275,36.8852
+1108,High,High,Medium,High,High,High,High,No,0,Physical business,3,0,0,Roysambu,-1.2275,36.8852
+1112,High,High,High,High,High,High,High,No,3,Online business,3,0,1,Roysambu,-1.2275,36.8852
+1113,Medium,Medium,Medium,Medium,High,High,Medium,No,0,Online business,1,0,0,Roysambu,-1.2275,36.8852
+1115,Very High,High,High,High,High,High,High,Yes,10,Physical business,10,0,1,Roysambu,-1.2275,36.8852
+1116,Medium,Medium,Medium,Medium,Medium,High,Very High,No,0,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1117,Medium,High,High,High,Medium,High,High,No,16,Physical business,16,1,1,Roysambu,-1.2275,36.8852
+1118,Medium,Medium,High,Medium,High,High,High,No,1,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1119,Medium,Low,Medium,Medium,Medium,Medium,Medium,No,0,Online business,3,0,1,Roysambu,-1.2275,36.8852
+1120,Medium,Medium,High,Medium,High,Medium,High,No,11,Physical business,11,1,0,Roysambu,-1.2275,36.8852
+1121,High,High,High,High,High,High,Medium,No,3,Online business,4,0,0,Roysambu,-1.2275,36.8852
+1122,Medium,High,High,High,High,High,High,No,34,Online business,44,0,0,Roysambu,-1.2275,36.8852
+1123,High,High,High,High,Medium,High,High,No,0,Online business,1,0,0,Roysambu,-1.2275,36.8852
+1124,Medium,High,Medium,Medium,Medium,Medium,Medium,No,2,Online business,2,1,1,Roysambu,-1.2275,36.8852
+1125,High,Medium,High,High,Very High,High,High,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1126,Medium,Medium,Medium,Medium,High,High,High,No,2,Online business,4,0,0,Roysambu,-1.2275,36.8852
+1127,High,Medium,Medium,Medium,Low,High,High,No,12,Physical business,13,0,1,Roysambu,-1.2275,36.8852
+1128,Medium,Medium,Low,Medium,Medium,Medium,High,No,0,Online business,4,1,1,Roysambu,-1.2275,36.8852
+1129,Medium,Medium,Low,Medium,Low,Medium,Medium,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1130,High,High,Medium,High,High,High,High,No,19,Physical business,19,0,0,Roysambu,-1.2275,36.8852
+1131,Medium,Very Low,Low,Low,Low,Low,Low,No,0,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1132,High,High,Very High,High,High,Medium,High,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1133,Medium,Medium,High,Medium,High,High,Medium,No,2,Physical business,2,1,1,Roysambu,-1.2275,36.8852
+1134,Medium,Medium,Medium,Medium,High,Medium,High,No,0,Online business,1,0,1,Roysambu,-1.2275,36.8852
+1135,High,High,High,High,High,Medium,Very High,No,2,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1136,Medium,Medium,High,Medium,Medium,Very High,Medium,No,0,Physical business,4,1,0,Roysambu,-1.2275,36.8852
+1137,High,Medium,Medium,Medium,Medium,Very High,High,No,1,Physical business,1,0,0,Roysambu,-1.2275,36.8852
+1138,Medium,High,High,High,Very High,High,Medium,No,0,Physical business,2,1,1,Roysambu,-1.2275,36.8852
+1139,High,High,High,High,High,High,Medium,Yes,7,Online business,7,1,1,Roysambu,-1.2275,36.8852
+1140,High,High,High,High,High,High,High,No,5,Online business,5,0,1,Roysambu,-1.2275,36.8852
+1141,Low,Low,Low,Low,Low,Low,Low,No,0,Physical business,0,0,1,Roysambu,-1.2275,36.8852
+1142,High,Very High,High,High,High,Medium,Low,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1143,High,Medium,High,High,High,High,Very High,No,0,Physical business,4,0,0,Roysambu,-1.2275,36.8852
+1144,High,Medium,High,High,High,High,Medium,No,0,Online business,1,0,1,Roysambu,-1.2275,36.8852
+1145,High,Medium,High,High,Medium,High,Medium,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1146,Medium,High,High,High,High,High,High,Yes,2,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1147,High,High,Medium,High,Medium,Medium,High,No,0,Physical business,1,0,0,Roysambu,-1.2275,36.8852
+1148,Medium,High,Medium,Medium,High,High,Medium,No,16,Online business,52,1,0,Roysambu,-1.2275,36.8852
+1149,High,High,High,High,High,Medium,Very High,No,11,Physical business,11,1,1,Roysambu,-1.2275,36.8852
+1150,Very High,High,Very High,Very High,High,High,Very High,No,0,Physical business,3,1,1,Roysambu,-1.2275,36.8852
+1151,Medium,High,Very High,High,High,High,Medium,No,0,Physical business,6,0,0,Roysambu,-1.2275,36.8852
+1152,Very High,Very High,High,Very High,High,High,High,No,13,Physical business,16,1,1,Roysambu,-1.2275,36.8852
+1153,High,High,High,High,High,High,Medium,No,31,Online business,31,1,1,Roysambu,-1.2275,36.8852
+1154,High,High,High,High,High,Medium,High,No,0,Physical business,1,0,1,Roysambu,-1.2275,36.8852
+1155,Low,Low,Low,Low,Low,Low,Low,No,0,other,0,0,1,Roysambu,-1.2275,36.8852
+1156,Low,Very Low,Low,Low,Very Low,Low,Low,No,0,Physical business,0,0,1,Roysambu,-1.2275,36.8852
+1157,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Roysambu,-1.2275,36.8852
+1158,Medium,High,Medium,Medium,High,Medium,Medium,No,0,Physical business,4,1,0,Roysambu,-1.2275,36.8852
+1159,Medium,High,High,High,High,Medium,High,No,3,Physical business,3,1,1,Roysambu,-1.2275,36.8852
+1160,High,High,Very High,High,Very High,High,High,Yes,9,Physical business,9,0,1,Roysambu,-1.2275,36.8852
+1161,Medium,High,High,High,Medium,Medium,Very High,No,3,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1162,High,High,High,High,High,Medium,High,No,2,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1163,High,High,High,High,High,High,Medium,Yes,5,Physical business,12,0,1,Roysambu,-1.2275,36.8852
+1164,High,Medium,Very High,High,Very High,High,High,No,4,Online business,5,0,1,Roysambu,-1.2275,36.8852
+1165,High,High,High,High,High,High,Very High,No,2,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1166,Medium,High,High,High,High,Medium,Medium,Yes,10,Online business,10,0,1,Roysambu,-1.2275,36.8852
+1167,High,High,High,High,High,High,High,Yes,5,Physical business,17,1,0,Roysambu,-1.2275,36.8852
+1168,High,High,High,High,High,High,High,No,12,Physical business,18,1,1,Roysambu,-1.2275,36.8852
+1169,High,Medium,High,High,High,High,High,No,2,Online business,3,0,1,Roysambu,-1.2275,36.8852
+1170,Medium,Medium,High,Medium,Medium,Medium,Medium,No,6,Online business,7,0,1,Roysambu,-1.2275,36.8852
+1171,High,High,High,High,High,High,High,No,0,Physical business,4,1,1,Roysambu,-1.2275,36.8852
+1172,Medium,High,High,High,Medium,Medium,High,Yes,27,Online business,25,1,1,Roysambu,-1.2275,36.8852
+1173,High,High,High,High,High,High,High,Yes,4,Physical business,8,0,1,Roysambu,-1.2275,36.8852
+1174,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,4,0,1,Roysambu,-1.2275,36.8852
+1175,High,Medium,High,High,High,High,Medium,Yes,3,Online business,3,0,1,Roysambu,-1.2275,36.8852
+1176,High,High,High,High,High,High,High,No,1,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1177,High,Medium,High,High,High,High,High,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1178,Very High,High,Very High,Very High,High,Very High,Very High,Yes,4,Online business,5,0,0,Roysambu,-1.2275,36.8852
+1179,High,Medium,Medium,Medium,Medium,High,High,No,4,Physical business,5,0,0,Roysambu,-1.2275,36.8852
+1180,High,High,High,High,High,High,High,Yes,0,Physical business,1,0,1,Roysambu,-1.2275,36.8852
+1181,Medium,High,High,High,High,Medium,High,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1182,Medium,High,Medium,Medium,High,Very High,High,No,0,Physical business,1,0,0,Roysambu,-1.2275,36.8852
+1183,High,High,High,High,High,Medium,Medium,Yes,13,Online business,23,1,0,Roysambu,-1.2275,36.8852
+1184,High,High,High,High,High,High,High,No,7,Online business,9,0,0,Roysambu,-1.2275,36.8852
+1185,High,High,High,High,High,High,High,No,1,Physical business,1,0,1,Roysambu,-1.2275,36.8852
+1186,High,High,Medium,High,High,Very High,High,No,0,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1187,High,High,High,High,High,High,High,Yes,11,Online business,11,1,1,Roysambu,-1.2275,36.8852
+1188,High,High,High,High,High,High,High,No,3,Physical business,3,0,0,Roysambu,-1.2275,36.8852
+1189,Medium,Medium,Low,Medium,Low,Low,Low,No,0,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1190,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Roysambu,-1.2275,36.8852
+1191,High,Medium,High,High,High,Very High,Very High,Yes,4,Online business,4,0,1,Roysambu,-1.2275,36.8852
+1192,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1193,Very Low,Low,Low,Low,Low,Low,Low,No,0,other,0,0,1,Roysambu,-1.2275,36.8852
+1194,High,High,High,High,High,High,Very High,Yes,10,Online business,13,0,0,Roysambu,-1.2275,36.8852
+1195,High,High,High,High,High,High,Very High,Yes,5,Online business,5,0,0,Roysambu,-1.2275,36.8852
+1196,Medium,High,High,High,High,High,High,No,8,Online business,8,1,1,Roysambu,-1.2275,36.8852
+1197,High,Medium,High,High,High,High,High,Yes,1,Online business,2,0,0,Roysambu,-1.2275,36.8852
+1198,High,High,High,High,High,High,High,Yes,3,Online business,3,1,1,Roysambu,-1.2275,36.8852
+1199,Medium,Medium,Very High,High,Very High,Medium,High,Yes,3,Online business,3,1,1,Roysambu,-1.2275,36.8852
+1200,Medium,High,High,High,High,Low,Medium,No,1,Physical business,1,0,1,Roysambu,-1.2275,36.8852
+1201,High,High,High,High,High,High,High,No,2,Physical business,2,1,1,Roysambu,-1.2275,36.8852
+1202,High,High,High,High,High,Medium,High,Yes,3,Physical business,3,0,1,Roysambu,-1.2275,36.8852
+1203,Medium,High,Medium,Medium,High,Medium,High,No,12,Online business,12,0,1,Roysambu,-1.2275,36.8852
+1204,High,High,High,High,High,Medium,High,No,2,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1205,High,High,Medium,High,Medium,Medium,High,Yes,12,Online business,12,0,1,Roysambu,-1.2275,36.8852
+1206,High,High,Medium,High,High,High,High,Yes,15,Online business,15,0,1,Roysambu,-1.2275,36.8852
+1207,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,13,Physical business,13,0,1,Roysambu,-1.2275,36.8852
+1208,Medium,Medium,Medium,Medium,High,Medium,Medium,Yes,10,Online business,10,0,1,Roysambu,-1.2275,36.8852
+1209,Medium,Medium,High,Medium,High,High,Medium,Yes,3,Online business,6,1,0,Roysambu,-1.2275,36.8852
+1210,High,High,High,High,High,High,High,Yes,8,Online business,8,1,1,Roysambu,-1.2275,36.8852
+1211,Medium,High,Medium,Medium,High,Medium,High,Yes,9,Online business,9,0,1,Roysambu,-1.2275,36.8852
+1212,Medium,High,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Roysambu,-1.2275,36.8852
+1213,Medium,Medium,High,Medium,Medium,High,High,No,4,Online business,4,0,0,Roysambu,-1.2275,36.8852
+1214,Medium,High,High,High,Medium,Medium,Medium,Yes,6,Online business,6,0,0,Roysambu,-1.2275,36.8852
+1215,Medium,Medium,High,Medium,High,High,High,Yes,1,Physical business,9,0,1,Roysambu,-1.2275,36.8852
+243,High,Medium,High,High,High,Medium,High,No,6,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+417,High,High,High,High,High,Medium,High,Yes,3,Online business,5,0,1,Ruaraka,-1.2556,36.8701
+630,High,High,Medium,High,High,Medium,High,No,0,Physical business,2,0,0,Ruaraka,-1.2556,36.8701
+764,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,90,Online business,100,0,0,Ruaraka,-1.2556,36.8701
+769,Medium,Medium,High,Medium,Very High,Medium,Medium,No,0,Physical business,8,0,0,Ruaraka,-1.2556,36.8701
+788,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,12,0,1,Ruaraka,-1.2556,36.8701
+792,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,2,0,1,Ruaraka,-1.2556,36.8701
+793,High,Medium,High,High,High,High,High,No,6,Physical business,6,1,0,Ruaraka,-1.2556,36.8701
+794,High,Medium,High,High,Medium,Medium,High,No,0,Physical business,7,1,1,Ruaraka,-1.2556,36.8701
+795,Medium,Medium,Medium,Medium,Medium,High,High,No,9,Physical business,9,0,1,Ruaraka,-1.2556,36.8701
+797,Medium,High,Medium,Medium,Medium,Medium,High,No,6,Physical business,10,0,1,Ruaraka,-1.2556,36.8701
+798,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+800,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Ruaraka,-1.2556,36.8701
+801,Low,Medium,Low,Low,Low,Low,Low,No,0,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+803,High,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,6,1,1,Ruaraka,-1.2556,36.8701
+804,High,Medium,Medium,Medium,High,Medium,High,Yes,12,Online business,12,0,0,Ruaraka,-1.2556,36.8701
+805,High,High,High,High,High,High,High,Yes,4,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+809,Medium,Low,Low,Low,Low,Low,Low,Yes,0,Physical business,1,0,0,Ruaraka,-1.2556,36.8701
+810,High,High,Low,Medium,Medium,Low,Medium,Yes,2,Online business,2,0,0,Ruaraka,-1.2556,36.8701
+812,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,6,0,1,Ruaraka,-1.2556,36.8701
+813,Medium,Medium,Low,Medium,Low,Medium,Medium,No,2,Physical business,2,0,0,Ruaraka,-1.2556,36.8701
+814,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,4,Physical business,4,0,1,Ruaraka,-1.2556,36.8701
+815,High,High,Medium,High,High,Medium,Medium,No,11,Physical business,11,0,0,Ruaraka,-1.2556,36.8701
+817,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,5,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+818,High,High,Medium,High,Medium,Medium,High,No,0,Physical business,8,0,0,Ruaraka,-1.2556,36.8701
+819,Medium,Low,Medium,Medium,Medium,Medium,Low,Yes,8,Online business,12,1,0,Ruaraka,-1.2556,36.8701
+827,High,Medium,Medium,Medium,High,Low,Medium,No,0,Physical business,6,0,1,Ruaraka,-1.2556,36.8701
+828,Medium,High,Medium,Medium,Medium,Medium,High,No,0,Physical business,7,0,1,Ruaraka,-1.2556,36.8701
+831,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+832,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+833,Medium,Medium,Low,Medium,Medium,Medium,Medium,Yes,1,Physical business,2,0,1,Ruaraka,-1.2556,36.8701
+834,High,High,Medium,High,Medium,Medium,Medium,No,0,Physical business,4,0,1,Ruaraka,-1.2556,36.8701
+835,Medium,Medium,Medium,Medium,High,Medium,Medium,No,0,Physical business,4,0,0,Ruaraka,-1.2556,36.8701
+836,Medium,Medium,High,Medium,High,Medium,Medium,No,0,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+837,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,23,0,1,Ruaraka,-1.2556,36.8701
+838,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,3,Physical business,7,0,1,Ruaraka,-1.2556,36.8701
+839,Medium,Low,High,Medium,High,High,High,No,0,Physical business,4,0,0,Ruaraka,-1.2556,36.8701
+840,Very High,High,High,High,High,High,High,No,3,Physical business,4,0,1,Ruaraka,-1.2556,36.8701
+841,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+842,High,High,Medium,High,High,High,High,No,0,Physical business,3,0,0,Ruaraka,-1.2556,36.8701
+843,High,High,Medium,High,Low,Low,Medium,No,2,Physical business,3,0,0,Ruaraka,-1.2556,36.8701
+844,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Physical business,3,0,1,Ruaraka,-1.2556,36.8701
+845,Medium,Medium,High,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,0,Ruaraka,-1.2556,36.8701
+846,High,Low,High,Medium,High,High,High,No,0,Physical business,4,0,0,Ruaraka,-1.2556,36.8701
+847,Medium,Medium,Low,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Ruaraka,-1.2556,36.8701
+848,Medium,Medium,High,Medium,Medium,Medium,High,Yes,4,Physical business,4,0,1,Ruaraka,-1.2556,36.8701
+849,Medium,Low,Medium,Medium,High,Low,Medium,No,0,Physical business,2,0,1,Ruaraka,-1.2556,36.8701
+850,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Ruaraka,-1.2556,36.8701
+851,High,High,High,High,High,Medium,High,No,0,Physical business,3,0,0,Ruaraka,-1.2556,36.8701
+852,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+853,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+854,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+855,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+856,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+857,High,Medium,Medium,Medium,Medium,High,High,No,0,Physical business,3,0,0,Ruaraka,-1.2556,36.8701
+858,High,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,4,0,0,Ruaraka,-1.2556,36.8701
+859,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,4,0,1,Ruaraka,-1.2556,36.8701
+860,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+861,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,3,0,1,Ruaraka,-1.2556,36.8701
+862,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Physical business,6,0,1,Ruaraka,-1.2556,36.8701
+863,High,High,High,High,High,High,High,No,3,Physical business,4,0,0,Ruaraka,-1.2556,36.8701
+864,Medium,High,High,High,High,Low,Medium,No,0,Physical business,4,0,0,Ruaraka,-1.2556,36.8701
+865,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,0,Online business,7,0,1,Ruaraka,-1.2556,36.8701
+866,High,High,High,High,High,High,Medium,No,0,Physical business,22,0,1,Ruaraka,-1.2556,36.8701
+868,Medium,High,Medium,Medium,Medium,High,High,No,1,Physical business,3,0,1,Ruaraka,-1.2556,36.8701
+869,High,Medium,High,High,High,High,High,Yes,0,Physical business,3,0,0,Ruaraka,-1.2556,36.8701
+870,Medium,Medium,Low,Medium,Medium,Medium,Medium,No,5,Physical business,5,1,0,Ruaraka,-1.2556,36.8701
+871,Medium,Medium,Medium,Medium,Low,Medium,Medium,No,11,Physical business,13,0,1,Ruaraka,-1.2556,36.8701
+872,Medium,Medium,Medium,Medium,Medium,Low,Low,Yes,7,Online business,7,0,0,Ruaraka,-1.2556,36.8701
+873,High,High,High,High,High,High,High,Yes,6,Online business,6,0,1,Ruaraka,-1.2556,36.8701
+874,High,High,Medium,High,Medium,Medium,Medium,Yes,2,Online business,2,0,1,Ruaraka,-1.2556,36.8701
+875,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,7,Physical business,11,0,1,Ruaraka,-1.2556,36.8701
+876,High,High,High,High,High,High,High,No,5,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+877,High,High,Medium,High,High,Medium,High,No,5,Physical business,7,0,1,Ruaraka,-1.2556,36.8701
+878,Medium,High,High,High,High,Very High,High,No,2,Online business,2,0,1,Ruaraka,-1.2556,36.8701
+879,High,High,Medium,High,Medium,Medium,Medium,No,3,Physical business,3,0,1,Ruaraka,-1.2556,36.8701
+880,High,High,Medium,High,High,High,Medium,No,1,Online business,3,0,1,Ruaraka,-1.2556,36.8701
+881,Medium,Medium,High,Medium,High,Medium,High,Yes,8,Physical business,8,0,1,Ruaraka,-1.2556,36.8701
+882,Medium,High,High,High,High,High,High,No,0,Physical business,6,0,1,Ruaraka,-1.2556,36.8701
+883,Medium,Low,High,Medium,Medium,Medium,Low,Yes,1,Online business,4,0,1,Ruaraka,-1.2556,36.8701
+884,Medium,High,Low,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,1,Ruaraka,-1.2556,36.8701
+885,Medium,Medium,Low,Medium,Low,Medium,Low,Yes,1,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+886,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Online business,1,0,0,Ruaraka,-1.2556,36.8701
+887,High,Low,Low,Medium,Medium,Very Low,Low,No,1,Physical business,1,0,1,Ruaraka,-1.2556,36.8701
+888,Medium,Low,Medium,Medium,Medium,High,Low,No,9,Online business,25,0,1,Ruaraka,-1.2556,36.8701
+889,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,2,Physical business,4,0,1,Ruaraka,-1.2556,36.8701
+890,High,High,Medium,High,Medium,Medium,Medium,Yes,0,Online business,3,0,1,Ruaraka,-1.2556,36.8701
+893,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Ruaraka,-1.2556,36.8701
+894,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,3,0,1,Ruaraka,-1.2556,36.8701
+895,High,High,Medium,High,Medium,Medium,High,No,3,Online business,4,0,1,Ruaraka,-1.2556,36.8701
+896,Medium,High,Medium,Medium,Medium,Medium,Medium,No,0,Online business,2,0,1,Ruaraka,-1.2556,36.8701
+899,Medium,Medium,Medium,Medium,High,Medium,Medium,Yes,0,Online business,4,0,1,Ruaraka,-1.2556,36.8701
+900,Medium,Medium,Medium,Medium,Medium,High,High,No,0,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+901,Medium,High,High,High,High,High,High,Yes,0,Physical business,7,0,1,Ruaraka,-1.2556,36.8701
+902,High,High,High,High,High,High,High,No,1,Online business,9,1,1,Ruaraka,-1.2556,36.8701
+903,Medium,High,Medium,Medium,High,Medium,Medium,No,0,Physical business,10,1,1,Ruaraka,-1.2556,36.8701
+904,High,High,Medium,High,High,Medium,Medium,No,0,Online business,13,0,1,Ruaraka,-1.2556,36.8701
+905,Medium,High,Medium,Medium,High,Medium,High,No,5,Online business,8,0,1,Ruaraka,-1.2556,36.8701
+933,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,10,Online business,10,0,1,Ruaraka,-1.2556,36.8701
+934,Medium,Medium,High,Medium,High,Medium,Medium,No,0,Physical business,4,0,0,Ruaraka,-1.2556,36.8701
+937,Medium,High,High,High,High,High,Medium,No,10,Physical business,50,0,1,Ruaraka,-1.2556,36.8701
+941,Medium,Medium,High,Medium,Medium,Medium,Medium,Yes,4,Online business,4,0,1,Ruaraka,-1.2556,36.8701
+946,High,High,High,High,Medium,High,High,No,5,Physical business,5,0,1,Ruaraka,-1.2556,36.8701
+948,High,High,High,High,High,High,High,No,7,Physical business,12,0,1,Ruaraka,-1.2556,36.8701
+949,High,High,Medium,High,High,Medium,Medium,Yes,6,Online business,7,0,0,Ruaraka,-1.2556,36.8701
+952,High,High,High,High,High,High,High,Yes,18,Online business,18,0,1,Ruaraka,-1.2556,36.8701
+953,High,High,High,High,High,High,High,No,9,Physical business,11,0,1,Ruaraka,-1.2556,36.8701
+956,High,High,High,High,High,High,Very High,Yes,6,Online business,6,0,1,Ruaraka,-1.2556,36.8701
+999,High,High,High,High,Medium,Medium,Medium,No,0,Physical business,4,0,1,Ruaraka,-1.2556,36.8701
+1000,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,2,0,1,Ruaraka,-1.2556,36.8701
+1008,Low,Medium,High,Medium,Medium,High,Medium,No,7,Physical business,7,0,1,Ruaraka,-1.2556,36.8701
+248,High,High,Medium,High,High,High,High,Yes,0,Online business,1,0,1,Starehe,-1.2835,36.8226
+250,High,High,High,High,High,Medium,High,No,0,Online business,1,0,1,Starehe,-1.2835,36.8226
+252,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Starehe,-1.2835,36.8226
+253,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,1,Physical business,4,0,1,Starehe,-1.2835,36.8226
+264,High,Medium,High,High,High,High,High,Yes,13,Online business,34,1,1,Starehe,-1.2835,36.8226
+269,High,High,Medium,High,High,High,High,Yes,3,Online business,5,1,1,Starehe,-1.2835,36.8226
+271,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Online business,3,0,1,Starehe,-1.2835,36.8226
+272,Medium,Medium,Medium,Medium,High,Medium,High,Yes,3,Physical business,7,0,1,Starehe,-1.2835,36.8226
+273,High,High,High,High,High,Medium,High,Yes,1,Online business,3,1,1,Starehe,-1.2835,36.8226
+275,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Online business,1,0,1,Starehe,-1.2835,36.8226
+277,Medium,Medium,Medium,Medium,Medium,Medium,High,Yes,3,Online business,3,0,1,Starehe,-1.2835,36.8226
+278,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,8,Online business,15,0,0,Starehe,-1.2835,36.8226
+279,High,High,High,High,High,Medium,High,No,50,Online business,210,0,0,Starehe,-1.2835,36.8226
+280,Medium,High,High,High,High,Medium,Medium,No,0,Online business,2,0,1,Starehe,-1.2835,36.8226
+281,High,High,High,High,Medium,Medium,Medium,No,0,Online business,1,0,1,Starehe,-1.2835,36.8226
+282,Medium,Medium,Medium,Medium,Medium,High,Medium,No,6,Physical business,10,0,0,Starehe,-1.2835,36.8226
+286,Medium,High,High,High,Medium,Medium,High,No,0,Online business,1,0,1,Starehe,-1.2835,36.8226
+297,High,High,Medium,High,High,High,High,Yes,0,Online business,3,0,1,Starehe,-1.2835,36.8226
+298,Medium,Medium,High,Medium,Medium,Medium,Medium,No,1,Physical business,4,0,1,Starehe,-1.2835,36.8226
+299,Medium,High,High,High,High,Medium,Medium,Yes,70,Physical business,300,0,1,Starehe,-1.2835,36.8226
+301,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+303,Medium,Low,Medium,Medium,Low,Low,Medium,No,0,Physical business,3,0,1,Starehe,-1.2835,36.8226
+305,High,Medium,High,High,High,Medium,Medium,Yes,10,Physical business,28,0,1,Starehe,-1.2835,36.8226
+306,High,High,High,High,Medium,Medium,High,No,1,Online business,1,0,1,Starehe,-1.2835,36.8226
+308,Medium,Low,Medium,Medium,Medium,Medium,High,No,4,Physical business,10,0,1,Starehe,-1.2835,36.8226
+309,High,Medium,Medium,Medium,Medium,High,High,Yes,9,Online business,13,0,0,Starehe,-1.2835,36.8226
+310,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,12,0,0,Starehe,-1.2835,36.8226
+313,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+314,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,2,0,0,Starehe,-1.2835,36.8226
+315,High,Medium,Medium,Medium,Medium,High,High,No,0,Online business,15,1,1,Starehe,-1.2835,36.8226
+316,High,Medium,High,High,Medium,High,High,Yes,1,Online business,1,0,1,Starehe,-1.2835,36.8226
+317,Low,Low,Medium,Low,Medium,Medium,Medium,Yes,0,Physical business,18,0,0,Starehe,-1.2835,36.8226
+318,Medium,High,Medium,Medium,Medium,Medium,High,No,4,Physical business,6,0,0,Starehe,-1.2835,36.8226
+319,Medium,High,High,High,High,Medium,Medium,No,3,Online business,8,0,0,Starehe,-1.2835,36.8226
+320,High,Medium,Medium,Medium,High,Medium,High,Yes,1,Online business,5,0,1,Starehe,-1.2835,36.8226
+321,High,High,High,High,High,High,High,Yes,7,Online business,7,1,1,Starehe,-1.2835,36.8226
+322,Medium,Medium,High,Medium,Medium,Medium,Medium,No,2,Physical business,3,0,1,Starehe,-1.2835,36.8226
+323,Medium,High,Medium,Medium,Medium,High,High,No,4,Physical business,4,0,1,Starehe,-1.2835,36.8226
+324,High,Medium,Medium,Medium,Medium,Medium,Medium,Yes,5,Online business,13,1,0,Starehe,-1.2835,36.8226
+325,Medium,High,High,High,Medium,Medium,Medium,Yes,6,Online business,14,0,0,Starehe,-1.2835,36.8226
+326,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,1,0,0,Starehe,-1.2835,36.8226
+327,Low,Medium,Low,Low,Low,Low,Medium,No,0,Physical business,2,0,0,Starehe,-1.2835,36.8226
+329,Medium,High,Medium,Medium,Medium,High,High,Yes,0,Physical business,2,0,1,Starehe,-1.2835,36.8226
+330,Medium,High,Medium,Medium,Medium,High,Medium,Yes,4,Online business,10,0,0,Starehe,-1.2835,36.8226
+331,Medium,Medium,High,Medium,High,Medium,High,Yes,0,Online business,3,0,1,Starehe,-1.2835,36.8226
+332,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Physical business,3,0,1,Starehe,-1.2835,36.8226
+333,Medium,Medium,Medium,Medium,Medium,Medium,High,Yes,1,Online business,20,0,1,Starehe,-1.2835,36.8226
+334,Low,Medium,High,Medium,High,High,High,Yes,5,Physical business,30,0,1,Starehe,-1.2835,36.8226
+335,Medium,High,High,High,Very High,Medium,Medium,Yes,17,Online business,53,0,1,Starehe,-1.2835,36.8226
+336,Medium,Low,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,10,0,1,Starehe,-1.2835,36.8226
+337,High,High,Medium,High,Medium,High,High,Yes,10,Online business,10,0,1,Starehe,-1.2835,36.8226
+339,Low,Low,Medium,Low,Low,Medium,Medium,No,0,Physical business,4,0,0,Starehe,-1.2835,36.8226
+340,Medium,Medium,High,Medium,Medium,High,Medium,Yes,0,Online business,2,0,1,Starehe,-1.2835,36.8226
+341,Low,Low,Low,Low,Low,Medium,Medium,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+342,Low,Medium,High,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Starehe,-1.2835,36.8226
+343,Medium,Medium,Medium,Medium,Medium,High,High,Yes,3,Online business,7,0,1,Starehe,-1.2835,36.8226
+344,Medium,Low,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,4,0,1,Starehe,-1.2835,36.8226
+345,High,High,High,High,High,High,High,Yes,1,Online business,3,0,1,Starehe,-1.2835,36.8226
+346,Medium,Low,Medium,Medium,Medium,Medium,Medium,No,1,Online business,2,0,1,Starehe,-1.2835,36.8226
+347,High,Medium,Medium,Medium,Medium,Low,Medium,Yes,1,Online business,2,0,0,Starehe,-1.2835,36.8226
+348,Medium,Medium,Medium,Medium,Medium,Medium,High,No,3,Online business,3,0,1,Starehe,-1.2835,36.8226
+349,Medium,Medium,Very High,High,High,High,High,No,3,Physical business,6,0,1,Starehe,-1.2835,36.8226
+350,Low,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Online business,3,0,1,Starehe,-1.2835,36.8226
+351,Medium,Medium,High,Medium,High,Medium,High,Yes,2,Online business,5,0,0,Starehe,-1.2835,36.8226
+352,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Starehe,-1.2835,36.8226
+353,Medium,Medium,Medium,Medium,Medium,High,Medium,No,3,Physical business,9,0,0,Starehe,-1.2835,36.8226
+354,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Starehe,-1.2835,36.8226
+355,Low,Medium,Medium,Medium,High,Low,Medium,No,1,Physical business,3,0,0,Starehe,-1.2835,36.8226
+356,High,High,High,High,High,High,High,No,0,Online business,1,0,1,Starehe,-1.2835,36.8226
+357,High,High,High,High,High,High,High,Yes,2,Online business,3,0,1,Starehe,-1.2835,36.8226
+369,High,Medium,Medium,Medium,Medium,High,High,Yes,20,Online business,37,0,1,Starehe,-1.2835,36.8226
+374,High,Medium,High,High,High,High,High,Yes,0,Online business,10,0,1,Starehe,-1.2835,36.8226
+380,Medium,Medium,High,Medium,Medium,Medium,High,Yes,15,Physical business,35,0,1,Starehe,-1.2835,36.8226
+387,Medium,High,Medium,Medium,Medium,Medium,Medium,Yes,14,Physical business,35,1,1,Starehe,-1.2835,36.8226
+388,Medium,Medium,Medium,Medium,High,High,Medium,Yes,2,Online business,10,0,1,Starehe,-1.2835,36.8226
+393,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Starehe,-1.2835,36.8226
+394,High,Medium,High,High,High,High,Very High,Yes,0,Physical business,2,0,1,Starehe,-1.2835,36.8226
+396,High,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Online business,3,1,1,Starehe,-1.2835,36.8226
+478,Medium,Medium,Medium,Medium,Medium,High,High,No,1,Physical business,1,0,0,Starehe,-1.2835,36.8226
+480,Low,Medium,Medium,Medium,Medium,Medium,Low,No,0,Physical business,1,0,1,Starehe,-1.2835,36.8226
+483,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,2,Online business,4,0,1,Starehe,-1.2835,36.8226
+510,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+511,High,High,Very High,High,High,High,High,No,2,Online business,2,0,1,Starehe,-1.2835,36.8226
+515,High,High,Medium,High,Medium,High,High,No,1,Online business,1,0,1,Starehe,-1.2835,36.8226
+516,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Online business,1,0,1,Starehe,-1.2835,36.8226
+517,Medium,Medium,High,Medium,Medium,Medium,High,No,1,Online business,2,0,1,Starehe,-1.2835,36.8226
+519,High,High,High,High,High,Medium,High,Yes,1,Online business,3,0,1,Starehe,-1.2835,36.8226
+523,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,8,0,1,Starehe,-1.2835,36.8226
+525,Medium,Medium,Medium,Medium,Medium,High,High,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+527,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,6,0,0,Starehe,-1.2835,36.8226
+528,Medium,Medium,High,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,0,Starehe,-1.2835,36.8226
+530,Medium,Medium,High,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,0,Starehe,-1.2835,36.8226
+532,High,High,High,High,High,Medium,High,Yes,1,Online business,3,0,0,Starehe,-1.2835,36.8226
+534,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,1,Physical business,5,0,0,Starehe,-1.2835,36.8226
+541,Medium,Low,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Starehe,-1.2835,36.8226
+542,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,3,Online business,3,0,0,Starehe,-1.2835,36.8226
+543,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Starehe,-1.2835,36.8226
+544,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Starehe,-1.2835,36.8226
+545,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,0,Physical business,2,0,1,Starehe,-1.2835,36.8226
+546,Low,Medium,Medium,Medium,Medium,Low,Medium,Yes,0,Physical business,3,0,0,Starehe,-1.2835,36.8226
+549,High,High,Medium,High,Medium,High,High,No,0,Physical business,1,1,1,Starehe,-1.2835,36.8226
+551,Medium,High,Medium,Medium,Medium,High,Medium,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+552,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,0,Starehe,-1.2835,36.8226
+553,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Starehe,-1.2835,36.8226
+556,Medium,Medium,Medium,Medium,Medium,Medium,High,No,0,Physical business,2,0,1,Starehe,-1.2835,36.8226
+558,Medium,Medium,High,Medium,Medium,High,High,No,0,Physical business,3,0,1,Starehe,-1.2835,36.8226
+560,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,3,0,1,Starehe,-1.2835,36.8226
+561,Medium,Medium,Medium,Medium,Medium,High,Medium,Yes,0,Online business,2,0,0,Starehe,-1.2835,36.8226
+562,Medium,Medium,Medium,Medium,Medium,High,High,Yes,5,Physical business,25,0,1,Starehe,-1.2835,36.8226
+563,Low,Low,Medium,Low,Medium,Medium,Low,Yes,5,Physical business,60,1,1,Starehe,-1.2835,36.8226
+564,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,8,0,1,Starehe,-1.2835,36.8226
+566,Medium,High,Medium,Medium,Medium,High,High,Yes,15,Online business,38,1,1,Starehe,-1.2835,36.8226
+571,Medium,Medium,High,Medium,Medium,High,High,Yes,1,Physical business,2,0,0,Starehe,-1.2835,36.8226
+573,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,9,0,0,Starehe,-1.2835,36.8226
+575,Medium,Medium,High,Medium,Medium,Medium,Medium,No,0,Physical business,45,1,1,Starehe,-1.2835,36.8226
+582,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Starehe,-1.2835,36.8226
+583,Medium,Medium,Medium,Medium,Medium,Medium,High,Yes,0,Physical business,3,0,1,Starehe,-1.2835,36.8226
+584,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Online business,2,0,0,Starehe,-1.2835,36.8226
+585,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,1,Starehe,-1.2835,36.8226
+588,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Starehe,-1.2835,36.8226
+589,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,1,0,1,Starehe,-1.2835,36.8226
+590,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,0,Starehe,-1.2835,36.8226
+591,Medium,Medium,High,Medium,Medium,High,High,No,1,Physical business,4,1,0,Starehe,-1.2835,36.8226
+592,High,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,3,0,0,Starehe,-1.2835,36.8226
+593,Low,Low,Low,Low,Low,Low,Low,No,6,Physical business,19,0,1,Starehe,-1.2835,36.8226
+595,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,7,0,0,Starehe,-1.2835,36.8226
+596,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,4,0,1,Starehe,-1.2835,36.8226
+597,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,12,0,1,Starehe,-1.2835,36.8226
+602,Medium,High,Medium,Medium,Medium,High,Medium,No,0,Physical business,1,0,1,Starehe,-1.2835,36.8226
+605,High,High,High,High,High,High,High,Yes,17,Online business,33,0,0,Starehe,-1.2835,36.8226
+607,Medium,Medium,High,Medium,High,High,Medium,No,15,Physical business,62,0,0,Starehe,-1.2835,36.8226
+610,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,3,Online business,7,0,0,Starehe,-1.2835,36.8226
+612,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Online business,3,0,1,Starehe,-1.2835,36.8226
+613,Low,Medium,High,Medium,High,Medium,Medium,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+614,Medium,Medium,High,Medium,Medium,Medium,Medium,Yes,1,Online business,4,0,1,Starehe,-1.2835,36.8226
+619,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,50,Online business,110,0,1,Starehe,-1.2835,36.8226
+621,Low,Low,Medium,Low,Medium,Medium,Medium,Yes,0,Online business,1,0,0,Starehe,-1.2835,36.8226
+649,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,1,0,1,Starehe,-1.2835,36.8226
+652,High,High,Medium,High,Medium,High,High,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+653,Low,Low,Medium,Low,Medium,Medium,Medium,No,0,Physical business,1,0,0,Starehe,-1.2835,36.8226
+654,Medium,Medium,Medium,Medium,Low,Medium,Medium,Yes,0,Online business,2,0,0,Starehe,-1.2835,36.8226
+659,High,Medium,High,High,High,Medium,High,Yes,3,Online business,7,0,1,Starehe,-1.2835,36.8226
+660,Medium,Medium,Medium,Medium,Medium,High,Medium,No,0,Physical business,3,0,0,Starehe,-1.2835,36.8226
+667,High,High,Medium,High,Medium,High,High,No,1,Physical business,1,0,1,Starehe,-1.2835,36.8226
+669,Medium,Medium,Medium,Medium,High,Medium,Medium,No,0,Online business,3,0,0,Starehe,-1.2835,36.8226
+670,Low,Low,Medium,Low,Low,Medium,Medium,Yes,0,Online business,3,0,1,Starehe,-1.2835,36.8226
+671,Low,Low,Low,Low,Low,Low,Low,No,0,Physical business,4,0,0,Starehe,-1.2835,36.8226
+674,Medium,Medium,High,Medium,High,Medium,Medium,Yes,17,Online business,61,0,1,Starehe,-1.2835,36.8226
+675,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,6,Physical business,10,0,0,Starehe,-1.2835,36.8226
+676,Medium,Medium,High,Medium,Medium,Medium,Medium,Yes,0,Online business,4,0,0,Starehe,-1.2835,36.8226
+254,High,High,High,High,High,High,High,No,24,Online business,24,0,1,Westlands,-1.2644,36.8112
+256,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Yes,12,Online business,12,0,1,Westlands,-1.2644,36.8112
+257,High,High,High,High,High,High,High,No,15,Physical business,15,0,1,Westlands,-1.2644,36.8112
+258,High,High,High,High,High,High,High,Yes,17,Online business,17,0,1,Westlands,-1.2644,36.8112
+259,High,High,High,High,High,High,High,Yes,21,Online business,28,1,1,Westlands,-1.2644,36.8112
+260,High,High,High,High,High,High,High,Yes,23,Online business,23,0,0,Westlands,-1.2644,36.8112
+261,High,High,High,High,High,High,High,No,5,Physical business,12,0,0,Westlands,-1.2644,36.8112
+262,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Yes,58,Physical business,58,0,0,Westlands,-1.2644,36.8112
+263,Very High,Very High,High,Very High,Very High,High,Very High,No,23,Physical business,23,0,1,Westlands,-1.2644,36.8112
+265,High,High,High,High,High,High,High,No,0,Physical business,32,0,0,Westlands,-1.2644,36.8112
+267,High,High,High,High,High,High,High,Yes,5,Online business,5,0,0,Westlands,-1.2644,36.8112
+268,High,High,High,High,High,High,High,No,41,Physical business,41,0,1,Westlands,-1.2644,36.8112
+270,Very High,Very High,High,Very High,Very High,High,High,Yes,25,Physical business,32,0,1,Westlands,-1.2644,36.8112
+274,High,High,High,High,High,High,High,Yes,40,Physical business,40,0,1,Westlands,-1.2644,36.8112
+287,Very High,Very High,High,Very High,Very High,High,Very High,No,0,Online business,12,0,1,Westlands,-1.2644,36.8112
+290,Medium,High,High,High,Medium,High,Medium,Yes,2,Online business,2,0,0,Westlands,-1.2644,36.8112
+291,High,High,Medium,High,Medium,Medium,Medium,No,0,Physical business,1,0,1,Westlands,-1.2644,36.8112
+292,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,0,Online business,2,0,1,Westlands,-1.2644,36.8112
+293,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,2,Online business,2,0,1,Westlands,-1.2644,36.8112
+294,Medium,Medium,Low,Medium,Low,Low,Low,Yes,0,Physical business,1,0,1,Westlands,-1.2644,36.8112
+295,Medium,Medium,Medium,Medium,Low,Medium,Medium,No,0,Physical business,3,0,1,Westlands,-1.2644,36.8112
+296,High,Medium,Medium,Medium,High,High,High,No,0,Online business,35,0,0,Westlands,-1.2644,36.8112
+358,High,High,High,High,High,High,High,Yes,18,Physical business,22,0,1,Westlands,-1.2644,36.8112
+359,High,High,High,High,High,High,High,Yes,8,Physical business,9,0,1,Westlands,-1.2644,36.8112
+360,Very High,Very High,Medium,High,High,Medium,Very High,No,0,Physical business,2,0,1,Westlands,-1.2644,36.8112
+361,High,High,High,High,High,High,High,No,27,Physical business,27,0,1,Westlands,-1.2644,36.8112
+362,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,No,0,Physical business,4,0,1,Westlands,-1.2644,36.8112
+363,Very High,Very High,High,Very High,Very High,High,Very High,Yes,3,Physical business,4,0,1,Westlands,-1.2644,36.8112
+364,High,High,High,High,High,High,High,Yes,9,Physical business,9,0,1,Westlands,-1.2644,36.8112
+365,High,High,High,High,High,High,High,No,5,Online business,9,0,1,Westlands,-1.2644,36.8112
+366,High,High,High,High,High,High,High,No,7,Physical business,7,0,0,Westlands,-1.2644,36.8112
+367,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,6,Physical business,9,0,1,Westlands,-1.2644,36.8112
+368,High,High,High,High,High,Medium,High,No,4,Online business,3,0,0,Westlands,-1.2644,36.8112
+370,High,High,High,High,High,High,High,No,14,Physical business,15,0,1,Westlands,-1.2644,36.8112
+371,Very High,Medium,High,High,Very High,Low,Very High,No,0,Physical business,2,0,1,Westlands,-1.2644,36.8112
+372,High,High,High,High,High,Medium,High,No,7,Physical business,11,0,1,Westlands,-1.2644,36.8112
+373,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,31,0,0,Westlands,-1.2644,36.8112
+375,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,1,Westlands,-1.2644,36.8112
+376,High,High,High,High,High,High,High,No,69,Physical business,42,0,1,Westlands,-1.2644,36.8112
+377,High,High,High,High,High,High,High,No,23,Physical business,25,0,0,Westlands,-1.2644,36.8112
+378,High,High,High,High,High,High,High,No,22,Physical business,28,0,1,Westlands,-1.2644,36.8112
+381,High,High,High,High,High,High,High,Yes,5,Online business,5,0,1,Westlands,-1.2644,36.8112
+522,Medium,High,Medium,Medium,Medium,High,High,Yes,20,Physical business,22,1,1,Westlands,-1.2644,36.8112
+536,High,High,High,High,High,Very High,High,No,2,Physical business,3,1,1,Westlands,-1.2644,36.8112
+567,Medium,Medium,High,Medium,Medium,High,High,Yes,2,Online business,2,0,1,Westlands,-1.2644,36.8112
+569,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,0,0,1,Westlands,-1.2644,36.8112
+623,High,High,High,High,High,High,High,No,6,Physical business,7,0,0,Westlands,-1.2644,36.8112
+624,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,1,Online business,1,0,0,Westlands,-1.2644,36.8112
+625,High,High,High,High,High,High,High,No,14,Physical business,14,0,0,Westlands,-1.2644,36.8112
+626,High,High,High,High,High,High,High,No,9,Online business,12,0,0,Westlands,-1.2644,36.8112
+627,High,High,Medium,High,Medium,Medium,Medium,No,36,Physical business,41,0,1,Westlands,-1.2644,36.8112
+628,High,High,High,High,High,High,High,No,19,Physical business,21,0,0,Westlands,-1.2644,36.8112
+632,High,High,High,High,High,High,High,No,29,Physical business,29,0,1,Westlands,-1.2644,36.8112
+633,Low,Low,Low,Low,Very Low,Low,Low,No,0,Online business,1,0,0,Westlands,-1.2644,36.8112
+634,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,2,0,1,Westlands,-1.2644,36.8112
+635,Low,Medium,Low,Low,Low,Low,Low,Yes,1,Physical business,1,0,1,Westlands,-1.2644,36.8112
+636,High,High,High,High,High,High,High,No,53,Physical business,53,0,1,Westlands,-1.2644,36.8112
+637,High,High,Medium,High,High,Medium,Medium,Yes,5,Online business,7,0,1,Westlands,-1.2644,36.8112
+638,Medium,Medium,Low,Medium,Low,Low,Low,Yes,0,Physical business,1,0,0,Westlands,-1.2644,36.8112
+639,Medium,Medium,Medium,Medium,Medium,Low,Medium,Yes,1,Online business,1,0,1,Westlands,-1.2644,36.8112
+640,Medium,Medium,High,Medium,High,High,Medium,No,0,Online business,8,0,1,Westlands,-1.2644,36.8112
+641,High,High,High,High,High,High,High,No,62,Online business,62,0,0,Westlands,-1.2644,36.8112
+642,High,High,High,High,High,High,High,No,0,Physical business,11,0,0,Westlands,-1.2644,36.8112
+643,High,High,High,High,High,High,High,No,12,Physical business,14,0,0,Westlands,-1.2644,36.8112
+644,High,High,High,High,High,High,High,No,0,Physical business,2,0,1,Westlands,-1.2644,36.8112
+645,High,High,High,High,High,High,High,Yes,13,Physical business,19,0,0,Westlands,-1.2644,36.8112
+646,High,High,High,High,High,High,High,No,20,Physical business,27,0,1,Westlands,-1.2644,36.8112
+647,High,High,High,High,High,Medium,Medium,No,0,Physical business,4,0,0,Westlands,-1.2644,36.8112
+648,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,3,0,1,Westlands,-1.2644,36.8112
+650,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,5,Online business,5,0,0,Westlands,-1.2644,36.8112
+679,High,High,High,High,High,High,High,No,7,Physical business,7,0,1,Westlands,-1.2644,36.8112
+680,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,16,Online business,17,0,0,Westlands,-1.2644,36.8112
+681,High,High,High,High,High,High,High,No,19,Online business,19,0,0,Westlands,-1.2644,36.8112
+682,High,High,High,High,High,High,High,Yes,6,Physical business,6,0,0,Westlands,-1.2644,36.8112
+684,High,High,High,High,High,High,High,No,14,Physical business,14,0,1,Westlands,-1.2644,36.8112
+685,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,0,Westlands,-1.2644,36.8112
+686,High,High,High,High,High,High,High,No,22,Physical business,22,0,0,Westlands,-1.2644,36.8112
+687,High,High,High,High,High,Medium,High,No,33,Physical business,33,0,1,Westlands,-1.2644,36.8112
+688,High,High,High,High,High,High,High,No,32,Physical business,32,0,0,Westlands,-1.2644,36.8112
+689,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Online business,5,0,0,Westlands,-1.2644,36.8112
+690,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,11,Online business,13,0,1,Westlands,-1.2644,36.8112
+691,High,High,High,High,High,High,High,No,42,Physical business,42,0,0,Westlands,-1.2644,36.8112
+692,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,16,Physical business,16,0,0,Westlands,-1.2644,36.8112
+693,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,5,Physical business,5,0,1,Westlands,-1.2644,36.8112
+696,High,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,1,0,1,Westlands,-1.2644,36.8112
+697,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,4,Physical business,13,0,1,Westlands,-1.2644,36.8112
+698,Medium,Medium,Low,Medium,High,Low,Low,No,1,Physical business,1,0,0,Westlands,-1.2644,36.8112
+699,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,93,Physical business,123,0,0,Westlands,-1.2644,36.8112
+700,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Online business,3,0,1,Westlands,-1.2644,36.8112
+701,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,3,0,1,Westlands,-1.2644,36.8112
+702,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Online business,3,0,0,Westlands,-1.2644,36.8112
+703,Very High,Very High,Very High,Very High,High,Very High,Very High,No,12,Online business,12,0,0,Westlands,-1.2644,36.8112
+704,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,17,Online business,22,0,1,Westlands,-1.2644,36.8112
+705,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Online business,5,0,1,Westlands,-1.2644,36.8112
+706,High,High,High,High,High,High,High,No,5,Online business,5,0,1,Westlands,-1.2644,36.8112
+707,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,35,Physical business,41,0,0,Westlands,-1.2644,36.8112
+708,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,11,1,1,Westlands,-1.2644,36.8112
+709,Low,Low,Low,Low,Medium,Low,Low,No,1,Physical business,1,0,0,Westlands,-1.2644,36.8112
+710,Medium,Low,Low,Low,Low,Low,Low,No,0,Physical business,5,0,1,Westlands,-1.2644,36.8112
+711,Medium,Medium,Low,Medium,Low,Low,Medium,No,1,Physical business,1,0,1,Westlands,-1.2644,36.8112
+712,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Online business,3,0,1,Westlands,-1.2644,36.8112
+713,Medium,High,Low,Medium,Medium,Low,Medium,No,1,Online business,2,0,1,Westlands,-1.2644,36.8112
+714,Low,Medium,Medium,Medium,Medium,Medium,Medium,No,1,Physical business,1,0,1,Westlands,-1.2644,36.8112
+715,Low,Low,Low,Low,Low,Low,Low,No,0,Physical business,2,0,1,Westlands,-1.2644,36.8112
+716,Medium,Medium,Low,Medium,Medium,Medium,Medium,No,0,Physical business,2,0,1,Westlands,-1.2644,36.8112
+717,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,1,Physical business,1,0,1,Westlands,-1.2644,36.8112
+718,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,3,Physical business,3,0,1,Westlands,-1.2644,36.8112
+719,High,High,High,High,High,High,High,No,9,Physical business,9,0,1,Westlands,-1.2644,36.8112
+720,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,2,Physical business,2,0,1,Westlands,-1.2644,36.8112
+721,High,High,High,High,Very High,Very High,High,No,9,Physical business,9,0,1,Westlands,-1.2644,36.8112
+722,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,No,2,Physical business,2,0,1,Westlands,-1.2644,36.8112
+723,Medium,Medium,Medium,Medium,Low,Low,Low,Yes,2,Physical business,2,0,1,Westlands,-1.2644,36.8112
+724,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,4,Online business,5,0,1,Westlands,-1.2644,36.8112
+725,High,High,High,High,High,High,High,No,30,Physical business,40,0,0,Westlands,-1.2644,36.8112
+726,High,High,High,High,High,Medium,High,No,13,Physical business,14,0,1,Westlands,-1.2644,36.8112
+727,High,High,Low,Medium,Medium,Medium,Medium,No,0,Online business,4,0,1,Westlands,-1.2644,36.8112
+728,High,High,High,High,High,High,High,No,13,Physical business,19,0,0,Westlands,-1.2644,36.8112
+729,High,High,High,High,High,High,High,No,7,Online business,7,0,1,Westlands,-1.2644,36.8112
+730,High,High,High,High,High,High,High,No,12,Online business,12,0,0,Westlands,-1.2644,36.8112
+731,High,High,Medium,High,Medium,High,High,Yes,7,Online business,11,1,1,Westlands,-1.2644,36.8112
+732,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,9,Online business,12,1,1,Westlands,-1.2644,36.8112
+733,High,High,Medium,High,High,Medium,High,No,0,Online business,14,0,1,Westlands,-1.2644,36.8112
+734,High,High,High,High,High,High,High,No,0,Online business,5,0,1,Westlands,-1.2644,36.8112
+735,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,4,0,1,Westlands,-1.2644,36.8112
+737,Low,Low,Low,Low,Low,Low,Low,No,1,Physical business,1,1,1,Westlands,-1.2644,36.8112
+738,Low,Low,Low,Low,Low,Very Low,Low,No,2,Physical business,2,0,1,Westlands,-1.2644,36.8112
+739,Medium,Medium,Medium,Medium,Medium,Low,Medium,No,2,Online business,2,0,1,Westlands,-1.2644,36.8112
+740,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,9,Online business,10,0,1,Westlands,-1.2644,36.8112
+743,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,7,Online business,14,0,1,Westlands,-1.2644,36.8112
+765,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,34,Physical business,55,0,1,Westlands,-1.2644,36.8112
+768,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,7,Online business,14,0,0,Westlands,-1.2644,36.8112
+770,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Yes,0,Physical business,3,0,1,Westlands,-1.2644,36.8112
+771,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Physical business,5,1,0,Westlands,-1.2644,36.8112
+772,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Yes,2,Online business,2,1,1,Westlands,-1.2644,36.8112
+773,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,16,Online business,22,0,0,Westlands,-1.2644,36.8112
+774,Very High,Very High,High,Very High,High,High,High,No,0,Online business,18,0,1,Westlands,-1.2644,36.8112
+775,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,4,Physical business,5,0,1,Westlands,-1.2644,36.8112
+776,Very High,Very High,High,Very High,High,High,High,No,0,Online business,3,0,1,Westlands,-1.2644,36.8112
+777,High,High,Medium,High,Medium,High,High,No,3,Physical business,3,0,0,Westlands,-1.2644,36.8112
+778,Very High,Very High,Very High,Very High,Very High,Very High,Very High,No,0,Online business,11,1,1,Westlands,-1.2644,36.8112
+779,Very High,Very High,High,Very High,High,High,High,No,0,Online business,13,0,1,Westlands,-1.2644,36.8112
+780,Very High,High,High,High,High,High,High,No,0,Online business,3,0,1,Westlands,-1.2644,36.8112
+781,Very High,Very High,High,Very High,Very High,Very High,Very High,No,1,Physical business,3,0,1,Westlands,-1.2644,36.8112
+782,Very High,Very High,High,Very High,High,High,High,No,0,Online business,12,0,1,Westlands,-1.2644,36.8112
+783,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,40,Physical business,46,0,1,Westlands,-1.2644,36.8112
+784,High,Medium,Medium,Medium,Medium,Medium,Medium,No,0,Online business,5,0,1,Westlands,-1.2644,36.8112
+785,Medium,Low,Low,Low,Very Low,Low,Low,Yes,3,Online business,6,0,1,Westlands,-1.2644,36.8112
+786,Low,Low,Low,Low,Low,Low,Low,No,0,Physical business,2,0,1,Westlands,-1.2644,36.8112
+789,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,7,Physical business,9,0,0,Westlands,-1.2644,36.8112
+790,Medium,Medium,Medium,Medium,Medium,Medium,Medium,No,32,Online business,31,0,0,Westlands,-1.2644,36.8112
+791,High,High,High,High,High,High,High,Yes,7,Physical business,11,0,1,Westlands,-1.2644,36.8112

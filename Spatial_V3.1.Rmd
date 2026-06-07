@@ -1,0 +1,338 @@
+---
+title: "Spatial Modelling with SEM"
+author: "G1"
+date: "2025-03-09"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+    highlight: tango
+    df_print: paged
+  pdf_document:
+    toc: true
+editor_options:
+  markdown:
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# I. SPATIAL
+
+## Libraries
+
+```{r}
+
+library(sf)
+library(ggplot2)
+library(dplyr)
+library(spdep)
+library(spatialreg)
+library(car)
+
+
+
+```
+
+## Read dataset
+
+```{r cars}
+
+
+nrb <- read.csv("/Users/stephen/MEGA/1. SCHOOL/3. Junior/1st Sem/STA3010 STATISTICAL MODELING/spartial/Combined_Data.csv")
+#View
+head(nrb)
+
+
+```
+
+## Dataset summary and conversion
+
+```{r}
+
+str(nrb)
+max(nrb$x_5)
+unique(nrb$x_6)
+unique(nrb$x_8)
+unique(nrb$x_9)
+
+
+# x8, x9 categorical
+# int var are x_5, x_7, X
+
+ordlvl <- c("Very Low", "Low", "Medium", "High", "Very High")
+
+
+nrb$y_11 <- as.numeric(factor(nrb$y_11, levels = ordlvl))
+nrb$y_12 <- as.numeric(factor(nrb$y_12, levels = ordlvl))
+nrb$y_13 <- as.numeric(factor(nrb$y_13, levels = ordlvl))
+nrb$y <- as.numeric(factor(nrb$y, levels = ordlvl))
+nrb$x_1 <- as.numeric(nrb$X)
+nrb$x_2 <- as.numeric(nrb$X)
+nrb$x_3 <- as.numeric(nrb$X)
+nrb$x_4 <- ifelse(nrb$x_4 == "Yes", 1, 0)
+nrb$x_5 <- as.numeric(nrb$x_5)
+nrb$x_6 <- ifelse(nrb$x_6 == "Physical", 1, ifelse(nrb$x_6 == "Online", 2, 3))
+nrb$x_7 <- as.numeric(nrb$x_7)
+nrb$x_8 <- as.numeric(nrb$x_8)
+nrb$x_9 <- as.numeric(nrb$x_9)
+```
+
+### Variables
+
+y_11:  Access to new technology (Access)
+
+y_12 :Openness, reception, utilization of new technology (Openness)
+
+y_13 :Coping with modern technology (Coping)
+
+Y : Adoption of New Technology (Adoption)
+
+x_1 : Competency in ICT (ICTComp)
+
+x_2 : Willingness to continuous training education and qualification
+(Trainedu)
+
+x_3 : Mastering digital transformation (Mdigtech)
+
+x_4 : Percentage of employees with new technology (Newtech)
+
+x_5:Percentage of employees with digital technical skills
+(Techemployees)
+
+ x_6 : Percentage of SMEs operating online (Moperate)
+
+x_8: Financial Institutions as main financiers (Fininstmain)
+
+x_9: Finance is the main barrier (Finbarrier)   
+
+## Converting to sf
+
+```{r}
+
+names(nrb)[names(nrb) == "lat"] <- "latitude"
+names(nrb)[names(nrb) == "long"] <- "longitude"
+
+nrb_sf <- st_as_sf(nrb, coords = c("longitude", "latitude"), crs = 4326)
+head(nrb_sf)
+
+
+```
+
+## Loading shapefile
+
+```{r}
+
+
+kenya_lvl3 <- st_read("/Users/stephen/MEGA/1. SCHOOL/3. Junior/1st Sem/STA3010 STATISTICAL MODELING/spartial/gadm41_KEN_shp/gadm41_KEN_2.shp")
+
+# Check available column names to identify the correct column for subcounties
+print(names(kenya_lvl3))
+
+# Filter to keep only Nairobi subcounties
+nairobi_shp <- kenya_lvl3[kenya_lvl3$NAME_1 == "Nairobi", ]
+
+# Verify the filter worked
+print(unique(nairobi_shp$NAME_1))  # Should only show "Nairobi"
+
+# Compute centroids for labeling
+nairobi_shp$centroid <- st_centroid(nairobi_shp$geometry)
+nairobi_shp$lon <- st_coordinates(nairobi_shp$centroid)[, 1]
+nairobi_shp$lat <- st_coordinates(nairobi_shp$centroid)[, 2]
+
+# Plot Nairobi Subcounties with Labels
+ggplot(data = nairobi_shp) +
+  geom_sf(fill = "lightblue", color = "black") +  # Subcounty boundaries
+  geom_text(aes(x = lon, y = lat, label = NAME_2), size = 3, color = "red") +  # Subcounty labels
+  ggtitle("Nairobi Subcounties with Names") +
+  theme_minimal()
+
+
+```
+
+## Combining all Embakasi
+
+```{r}
+
+# Merge all "Embakasi" subcounties into one
+nairobi_shp$NAME_2 <- ifelse(grepl("embakasi", nairobi_shp$NAME_2, ignore.case = TRUE), "Embakasi", nairobi_shp$NAME_2)
+
+# Dissolve to merge polygons of the same subcounty
+nairobi_shp_updated <- nairobi_shp %>%
+  group_by(NAME_2) %>%
+  summarize(geometry = st_union(geometry), .groups = "drop")
+
+# Compute centroid for each subcounty (for labeling)
+nairobi_centroids <- st_centroid(nairobi_shp_updated)
+
+# Extract centroid coordinates
+nairobi_centroids <- nairobi_centroids %>%
+  mutate(lon = st_coordinates(.)[,1], lat = st_coordinates(.)[,2])
+
+# Plot updated subcounty map with labels
+ggplot(data = nairobi_shp_updated) +
+  geom_sf(fill = "lightblue", color = "black") +
+  geom_text(data = nairobi_centroids, aes(x = lon, y = lat, label = NAME_2), size = 4, color = "red") +  
+  ggtitle("Updated Nairobi Subcounties (Merged Embakasi)") +
+  theme_minimal()
+
+
+```
+
+## Merging shapefile and dataset
+
+```{r}
+
+
+# Ensure consistent naming for merging
+nrb$ADM2_EN <- trimws(tolower(nrb$ADM2_EN))  # Convert dataset subcounty names
+nairobi_shp_updated$NAME_2 <- trimws(tolower(nairobi_shp_updated$NAME_2))  # Convert shapefile subcounty names
+
+# Merge the dataset with the shapefile
+nrb_sf <- left_join(nairobi_shp_updated, nrb, by = c("NAME_2" = "ADM2_EN"))
+
+
+
+```
+
+## Check missing
+
+```{r}
+
+
+sum(is.na(nrb_sf))
+sum(is.na(nrb))
+
+nrb_sf[apply(is.na(nrb_sf), 1, any), ]
+nrb_sf <- na.omit(nrb_sf)
+
+
+```
+
+# II. Spatial matrix creation
+
+```{r}
+
+# Create spatial weights matrix (Queen contiguity)
+nb <- poly2nb(nrb_sf)  # Creates neighborhood list
+W <- nb2listw(nb, style = "W")  # Converts to weights list
+W
+
+# Queen
+plot(st_geometry(nrb_sf), main = "Queen Contiguity Neighbors")
+plot(nb, st_coordinates(st_centroid(st_geometry(nrb_sf))), add = TRUE, col = "blue")
+
+# Rook
+nb_rook <- poly2nb(nrb_sf, queen = FALSE)  # Creates Rook contiguity neighborhood list
+plot(st_geometry(nrb_sf), main = "Rook Contiguity Neighbors")
+plot(nb_rook, st_coordinates(st_centroid(st_geometry(nrb_sf))), add = TRUE, col = "red")
+
+# Distance
+coords <- st_coordinates(st_centroid(st_geometry(nrb_sf)))
+nb_dist <- dnearneigh(coords, 0, 2000)  # Neighbors within 2km
+
+plot(st_geometry(nrb_sf), main = "Distance-Based Neighbors (2km)")
+plot(nb_dist, coords, add = TRUE, col = "green")
+
+
+
+
+```
+
+# III. Moran test
+
+```{r}
+
+
+# Moran's I test for spatial autocorrelation
+moran_result <- moran.test(nrb_sf$y, listw = W)
+print(moran_result)
+
+# Moran's I test for spatial autocorrelation
+moran_result <- moran.test(nrb_sf$y_11, listw = W)
+print(moran_result)
+
+# Moran's I test for spatial autocorrelation
+moran_result <- moran.test(nrb_sf$y_12, listw = W)
+print(moran_result)
+
+# Moran's I test for spatial autocorrelation
+moran_result <- moran.test(nrb_sf$y_13, listw = W)
+print(moran_result)
+
+
+
+```
+
+## Collinearity check
+
+```{r}   vif(lm(y13 ~ x_1 + x_4 + x_5 + x_7 + x_8 + x_9, data = nrb_sf))}
+```
+
+## SLM model (SAR)
+
+```{r}
+
+
+# Fit a Spatial Lag Model (SAR)
+sar_model <- lagsarlm(y_13 ~ x_1 + x_4 + x_5 + x_7 + x_8 + x_9, 
+                      data = nrb_sf, listw = W)
+summary(sar_model)
+
+
+```
+
+## SEM model
+
+```{r}
+
+
+# Fit a Spatial Error Model (SAE)
+sae_model <- errorsarlm(y_13 ~ x_1 + x_4 + x_5 + x_7 + x_8 + x_9, 
+                      data = nrb_sf, listw = W)
+summary(sae_model)
+
+
+```
+
+## SDM model
+
+```{r}
+
+# Fit a Spatial Durbin Model (SDM)
+sdm_model <- lagsarlm(y_13 ~ x_1 + x_4 + x_5 + x_7 + x_8 + x_9, 
+                      data = nrb_sf, listw = W, type = "mixed")
+summary(sdm_model)
+
+
+```
+
+# IV. Model selection
+
+## Langrange multiplier test
+
+```{r}
+
+# Run LM tests on a regular linear model
+lm.LMtests(lm(y_13 ~ x_1 + x_4 + x_5 + x_7 + x_8 + x_9, 
+                      data = nrb_sf), 
+           listw = W, test = "all")
+
+
+```
+
+## AIC comparison
+
+```{r}
+
+# Compare models using AIC
+aic_values <- c(SAR = AIC(sar_model), 
+                SAE = AIC(sae_model), 
+                SDM = AIC(sdm_model))
+sort(aic_values)
+
+
+```
