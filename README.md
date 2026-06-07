@@ -1,4 +1,4 @@
-# 🗺️ Spatial Regression Analysis of Technology Adoption in Nairobi SMEs
+# Spatial Regression Analysis of Technology Adoption in Nairobi SMEs
 
 [![R](https://img.shields.io/badge/R-4.x-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@ A spatial econometric analysis examining the determinants of **technology adopti
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Research Context](#-research-context)
@@ -31,7 +31,7 @@ A spatial econometric analysis examining the determinants of **technology adopti
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This study investigates how **ICT competency, digital skills, and financial access** influence technology adoption among Nairobi SMEs using spatial regression techniques. Standard regression models assume spatial independence — an unrealistic assumption in an urban context where neighbouring businesses influence one another. This analysis addresses that by:
 
@@ -42,7 +42,7 @@ This study investigates how **ICT competency, digital skills, and financial acce
 
 ---
 
-## 🌍 Research Context
+## Research Context
 
 | Attribute | Details |
 |-----------|---------|
@@ -54,7 +54,7 @@ This study investigates how **ICT competency, digital skills, and financial acce
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 spartial_regression/
@@ -74,7 +74,7 @@ spartial_regression/
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 **File:** `Combined_Data.csv`  
 **Observations:** ~1,215 SME survey responses  
@@ -108,7 +108,7 @@ All outcome variables were measured on an ordinal Likert scale (`Very Low` → `
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Spatial Weight Matrices
 
@@ -193,7 +193,7 @@ The model with the **lowest AIC** is preferred as the best-fitting, most parsimo
 
 ---
 
-## 🛠️ Prerequisites & Installation
+## Prerequisites & Installation
 
 ### R Version
 Requires **R ≥ 4.0**. Install from [https://www.r-project.org/](https://www.r-project.org/).
@@ -221,7 +221,7 @@ install.packages(c("rmarkdown", "knitr"))
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Option 1: Knit the R Markdown Report (Recommended)
 
@@ -254,7 +254,7 @@ Open `Spatial_V3.1.html` directly in any web browser — no R installation requi
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 The analysis follows a structured pipeline:
 
@@ -281,7 +281,7 @@ Key modelling decisions:
 
 ---
 
-## 🗺️ Shapefile Data
+## Shapefile Data
 
 The shapefiles are sourced from the **Global Administrative Areas (GADM) v4.1** database:
 
@@ -296,11 +296,11 @@ The shapefiles are sourced from the **Global Administrative Areas (GADM) v4.1** 
 - **Source:** [https://gadm.org/download_country.html](https://gadm.org/download_country.html)
 - **License:** Free for academic and non-commercial use. Redistribution requires attribution to GADM.
 
-> ⚠️ The full Kenya Level 3 shapefile (`gadm41_KEN_3.shp`) is ~25 MB and is included in the repository for completeness, but **only Level 2** is used in the analysis.
+> The full Kenya Level 3 shapefile (`gadm41_KEN_3.shp`) is ~25 MB and is included in the repository for completeness, but **only Level 2** is used in the analysis.
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - **Ecological fallacy:** Variables are aggregated to sub-county level; individual-level inference should be made with caution.
 - **Small n:** After the spatial join and NA removal, the number of spatial units equals the number of Nairobi sub-counties (~10–15), which limits statistical power.
@@ -310,7 +310,7 @@ The shapefiles are sourced from the **Global Administrative Areas (GADM) v4.1** 
 
 ---
 
-## 📚 References
+## References
 
 - Anselin, L. (1988). *Spatial Econometrics: Methods and Models*. Kluwer Academic Publishers.
 - Bivand, R., & Piras, G. (2015). Comparing implementations of estimation methods for spatial econometrics. *Journal of Statistical Software*, 63(18), 1–36.
@@ -319,7 +319,7 @@ The shapefiles are sourced from the **Global Administrative Areas (GADM) v4.1** 
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you use this analysis or adapt the code, please cite:
 
@@ -335,12 +335,10 @@ If you use this analysis or adapt the code, please cite:
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Stephen Austine**  
 Data Scientist · ML Developer  
 GitHub: [@Stephen-Austine](https://github.com/Stephen-Austine)
 
 ---
-
-*This project was developed as part of STA3010: Statistical Modeling (2025).*
